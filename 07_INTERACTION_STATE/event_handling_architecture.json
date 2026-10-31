@@ -1,0 +1,16 @@
+{
+  "canvasInfo": {
+    "tabIndex": 0,
+    "hasPointerLock": true,
+    "hasWheelListener": true
+  },
+  "windowKeyHandlers": {
+    "onkeydown": false,
+    "onkeyup": false,
+    "onkeypress": false
+  },
+  "documentHandlers": {
+    "oncontextmenu": false,
+    "onselectstart": false
+  }
+}

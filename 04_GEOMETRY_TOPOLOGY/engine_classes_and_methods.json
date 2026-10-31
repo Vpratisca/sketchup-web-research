@@ -1,0 +1,2661 @@
+{
+  "totalClasses": 296,
+  "classes": {
+    "CollaborationClient": {
+      "methods": [
+        "GetInputBuffer",
+        "GetOutputBuffer",
+        "ReceiveData",
+        "ReceiveGlueMessage",
+        "ConfirmCloudFileSaved",
+        "ConfirmCloudFileLoaded",
+        "OnTimeout",
+        "SetInteractable",
+        "Initialize",
+        "Terminate",
+        "OnClientConnected",
+        "GetRecentEvents",
+        "GetPeerList",
+        "GetMyself",
+        "GetClientId",
+        "SetUserId",
+        "SetFirstName",
+        "SetLastName",
+        "SetAvatarUrl",
+        "SetMainColor",
+        "SetOutlineColor",
+        "IdentifyOurselfToSessionIfNeeded",
+        "FollowPeerCamera",
+        "StopFollowingPeerCamera",
+        "GetShowCursors",
+        "SetShowCursors",
+        "GetShouldShowHotspots",
+        "SetShowHotspots",
+        "MakeOtherCamerasFollowMe",
+        "SetIgnoringFollowRequests",
+        "OnModelSaveStarted",
+        "PrepareForModelLoad",
+        "SendCommentNotification",
+        "RequestSaveToCloud",
+        "StartRecording",
+        "StopRecording",
+        "IsRecording",
+        "StartReplay",
+        "ReplayMessage",
+        "ShouldPaceMessage",
+        "StopReplay",
+        "IsReplaying",
+        "ConfirmLatestFileRevision",
+        "OnLatestFileRevisionFetchFailed"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "PeerInfo": {
+      "methods": [
+        "GetId",
+        "GetName",
+        "GetMainColor",
+        "GetOutlineColor",
+        "IsActive",
+        "GetUserId",
+        "GetFirstName",
+        "GetLastName",
+        "GetMode",
+        "GetAvatarUrl",
+        "GetFollowedUser"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "CoreBuffer": {
+      "methods": [
+        "isEmpty",
+        "array",
+        "length"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "setCoreEventHandler": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "CorePointerVector": {
+      "methods": [
+        "push_back",
+        "resize",
+        "size",
+        "get",
+        "set"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "CorePromise": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "launch3DTextTool": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SetStaticDir": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GraphicsSettings_SetPBRPromotionMetalnessEnabled": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GraphicsSettings_SetPBRPromotionMetalnessFactor": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GraphicsSettings_SetPBRPromotionRoughnessEnabled": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GraphicsSettings_SetPBRPromotionRoughnessFactor": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GraphicsSettings_SetDisablePBRPromotion": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GraphicsSettings_SetRequiredCameraLevelOfDetail": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebLiveComponentClient": {
+      "methods": [
+        "init3DWLiveComponentForViewer",
+        "handlePacket",
+        "getLiveComponentParameters",
+        "getComponentDefinitionName",
+        "getComponentDefinitionModelId"
+      ],
+      "staticProps": [
+        "argCount",
+        "initializeAnalytics",
+        "getInstance"
+      ]
+    },
+    "StringVector": {
+      "methods": [
+        "push_back",
+        "resize",
+        "size",
+        "get",
+        "set"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WStringVector": {
+      "methods": [
+        "push_back",
+        "resize",
+        "size",
+        "get",
+        "set"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "CreateEmptyWStringVector": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GetUndoLogFilePath": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "MeasurePerf": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GetCursorImages": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "OpenModel": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SetBinaryMetadata": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GetBinaryMetadata": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "NewModel": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SaveModel": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SaveLiveComponent": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SaveModelCopy": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GetModelVersion": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "UnzipFile": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GetTempFilename": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "FixPathString": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "IsSaveNeeded": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "FinishAutoSave": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GetAutoSaveFilename": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SetCommonDirectories": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "ResetAutoSaveFilePath": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "CloseAutoSaveFile": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GetModelModifiedFlag": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SetModelModifiedFlag": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GetModelFilePath": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SetModelFilePath": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "LoadWarehouseFileIntoModel": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "LoadImageFileIntoModel": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "LoadSkpFileIntoModel": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "LocalizeString": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "ResetView": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "PurgeAll": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "CanPurge": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GetErrorMessage": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "FindCommandIdForKeyboardInput": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "DisableUndoManager": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "PrintHandler": {
+      "methods": [
+        "getPageCount",
+        "print"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "computePrintScale": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getViewHeight": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "setViewHeight": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "ensureWatermarkAfterPrint": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebComponentMaker": {
+      "methods": [
+        "Start",
+        "Finish",
+        "GetUniqueName",
+        "OnAlignmentChanged",
+        "Is2d",
+        "GetSnapTo",
+        "CleanUp"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SI_start": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SI_startAsTool": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SI_stop": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SI_fixAll": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SI_selectPrevIssue": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SI_selectNextIssue": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SketchupMessageApiHandler": {
+      "methods": [
+        "receiveBootstrapMessage",
+        "receiveJSONMessage",
+        "sendEvent",
+        "registerEventHandler"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SketchatronHelper": {
+      "methods": [
+        "PushEdges",
+        "PushRectangle",
+        "MoveEntities",
+        "ApplyTag",
+        "RemoveTag",
+        "ToggleTag",
+        "ApplyMaterial",
+        "RemoveMaterial",
+        "ToggleMaterial",
+        "PopEntities"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "ViewObserver": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "updateExtensionCommandList": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getScaleAdjustment": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SetClipboardDataFromJS": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "IsPasteAvailable": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebColor": {
+      "methods": [
+        "red",
+        "green",
+        "blue",
+        "alpha"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "RunCommand": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "IsCommandChecked": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "IsCommandEnabled": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GetActiveToolId": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "setCommandIcon": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "PasteRaw": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "PasteInPlaceRaw": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "UICommandBindingVector": {
+      "methods": [
+        "push_back",
+        "resize",
+        "size",
+        "get",
+        "set"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "CommandType": {
+      "methods": [],
+      "staticProps": [
+        "values",
+        "argCount",
+        "ACTION",
+        "OPTION",
+        "TOOL",
+        "TOGGLE",
+        "NOT_SEARCHABLE"
+      ]
+    },
+    "InsertCommandInfo": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GetCommandInfo": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "InitializeCommandMap": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebCommentsController": {
+      "methods": [
+        "addComments",
+        "addComment",
+        "removeComment",
+        "cancelAddComment",
+        "confirmComment",
+        "submittingComment",
+        "activateComment",
+        "deactivateComment",
+        "setHideComments",
+        "getHideComments",
+        "setCommentsAllowed",
+        "deleteAllComments",
+        "setCommentResolved",
+        "updateCommentData",
+        "updateNextPidForSceneCollisions"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "CommentDataVector": {
+      "methods": [
+        "push_back",
+        "resize",
+        "size",
+        "get",
+        "set"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "CommentAssociatedObjectIdsVector": {
+      "methods": [
+        "push_back",
+        "resize",
+        "size",
+        "get",
+        "set"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebCompBrowserData": {
+      "methods": [
+        "getThumbnail",
+        "hasThumbnail",
+        "getDefinitionName",
+        "getAuthor",
+        "getStats",
+        "getTotalInstanceCount",
+        "getStatsKeys",
+        "getCutsOpening",
+        "getAlwaysFaceCamera",
+        "getShadowsFaceSun",
+        "getGlueTo",
+        "getDescription",
+        "setDescription",
+        "setDefinitionName",
+        "setGlueTo",
+        "setAlwaysFaceCamera",
+        "setShadowsFaceSun",
+        "setCutsOpening",
+        "setComponentData",
+        "handleClick",
+        "isLiveComponent",
+        "saveComponentToFile",
+        "ensureHasThumbnail"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "StringToStringMap": {
+      "methods": [
+        "size",
+        "get",
+        "set",
+        "keys"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "ComponentList": {
+      "methods": [
+        "push_back",
+        "resize",
+        "size",
+        "get",
+        "set"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebComponentBrowser": {
+      "methods": [
+        "getInModelComponents",
+        "canPurge",
+        "purge"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "checkNewDefinitionNameValidity": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "DefinitionNameValidity": {
+      "methods": [],
+      "staticProps": [
+        "values",
+        "argCount",
+        "InvalidRecursive",
+        "ValidReplacesExisting",
+        "Valid"
+      ]
+    },
+    "crash": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "skoreCrash": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "fakeWebGPUCrash": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebCurve": {
+      "methods": [
+        "lengthCanChange",
+        "length",
+        "lengthType",
+        "lengthFormatted",
+        "radiusCanChange",
+        "radius",
+        "radiusFormatted",
+        "segmentCountCanChange",
+        "segmentCount"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "DimensionArrow": {
+      "methods": [],
+      "staticProps": [
+        "values",
+        "argCount",
+        "Multiple",
+        "None",
+        "Slash",
+        "Dot",
+        "Closed",
+        "Open"
+      ]
+    },
+    "DimensionTextAlignment": {
+      "methods": [],
+      "staticProps": [
+        "values",
+        "argCount",
+        "Multiple",
+        "Screen",
+        "Above",
+        "Center",
+        "Outside"
+      ]
+    },
+    "DimensionTextPosition": {
+      "methods": [],
+      "staticProps": [
+        "values",
+        "argCount",
+        "Multiple",
+        "Start",
+        "Centered",
+        "End"
+      ]
+    },
+    "WebDimensionInfo": {
+      "methods": [
+        "containsRadial",
+        "hasCommonText",
+        "getCommonText",
+        "hasCommonFont",
+        "getCommonFontFace",
+        "getCommonFontBold",
+        "getCommonFontItalic",
+        "getCommonFontSize",
+        "setCommonFont",
+        "getArrowType",
+        "canSetArrowType",
+        "setArrowType",
+        "getTextAlignment",
+        "canSetTextAlignment",
+        "setTextAlignment",
+        "getRadialTextAlignment",
+        "setRadialTextAlignment",
+        "getTextPosition",
+        "canSetTextPosition",
+        "setTextPosition"
+      ],
+      "staticProps": [
+        "argCount",
+        "getInstance"
+      ]
+    },
+    "WebDisplay": {
+      "methods": [],
+      "staticProps": [
+        "argCount",
+        "getInstance"
+      ]
+    },
+    "IsGeoReferenced": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SelectEntitiesByTagName": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "DeleteWebDocumentContents": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "EnsureModelHasThumbnails": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "DisableAutoSave": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "EnableAutoSave": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SimulateSaveError": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SetModelTitle": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebEntityInfo": {
+      "methods": [
+        "getSelectionCount",
+        "getSelectedEdgeCount",
+        "getAreaAsString",
+        "getVolumeAsString",
+        "getTitle",
+        "getInfoType",
+        "getInstanceName",
+        "getDefinitionName",
+        "hasCommonSelectionDefinition",
+        "getCommonMaterial",
+        "getCommonBackMaterial",
+        "setCommonMaterial",
+        "setCommonBackMaterial",
+        "removeCommonMaterial",
+        "removeCommonBackMaterial",
+        "hasCommonLayer",
+        "getCommonLayer",
+        "setInstanceName",
+        "setDefinitionName",
+        "isVisible",
+        "setVisible",
+        "isLocked",
+        "setLocked",
+        "castsShadows",
+        "setCastsShadows",
+        "receivesShadows",
+        "setReceivesShadows",
+        "getLengthAsString",
+        "setLength",
+        "getLengthCanChange",
+        "softenSmooth",
+        "getSoftenOn",
+        "getSoftenedEdgeCount",
+        "getSmoothOn",
+        "getSmoothedEdgeCount",
+        "setSoftenOn",
+        "setSmoothOn",
+        "getDimensionInfo",
+        "getLabelInfo",
+        "getCurve",
+        "setSegmentCount",
+        "setRadius",
+        "setLayer",
+        "getImage",
+        "setImageWidth",
+        "setImageHeight"
+      ],
+      "staticProps": [
+        "argCount",
+        "getInstance"
+      ]
+    },
+    "WebEnvironmentEditor": {
+      "methods": [
+        "isNameValid",
+        "setName",
+        "toggleIblEnabled",
+        "toggleSkyboxEnabled",
+        "toggleShadowLightEnabled",
+        "setRotationAngle",
+        "setSkyboxGain",
+        "setReflectionGain",
+        "setShadowLightPosition"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "EnvironmentVector": {
+      "methods": [
+        "push_back",
+        "resize",
+        "size",
+        "get",
+        "set"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebEnvironmentManager": {
+      "methods": [
+        "suspendNotifications",
+        "resumeNotifications",
+        "getInModelEnvironments",
+        "addEnvironment",
+        "deleteById",
+        "isPurgeAvailable",
+        "purgeEnvironments",
+        "setSelectedById",
+        "getSelected",
+        "loadLibraryEnvironment",
+        "selectLibraryEnvironmentByName"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "canExportSectionCuts": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "ExportSTL": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebFog": {
+      "methods": [
+        "fogEnabled",
+        "enableFog",
+        "getFogStartValue",
+        "getFogEndValue",
+        "setFogStartValue",
+        "setFogEndValue",
+        "setFogColor",
+        "getFogColor",
+        "getUseBackgroundColor",
+        "setUseBackgroundColor",
+        "isModelHiddenInFog"
+      ],
+      "staticProps": [
+        "argCount",
+        "getInstance"
+      ]
+    },
+    "FontSpecVector": {
+      "methods": [
+        "push_back",
+        "resize",
+        "size",
+        "get",
+        "set"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getAvailableFonts": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "CreateDiffusionImage": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "ClearDiffusionImage": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SetDiffusionImageOpacity": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GetDiffusionImageOpacity": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "HasDiffusionImage": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebImage": {
+      "methods": [
+        "path",
+        "pixelWidth",
+        "pixelHeight",
+        "formattedWidth",
+        "formattedHeight",
+        "isUniform"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "StlUnits": {
+      "methods": [],
+      "staticProps": [
+        "values",
+        "argCount",
+        "Meters",
+        "Centimeters",
+        "Millimeters",
+        "Feet",
+        "Inches"
+      ]
+    },
+    "ImportSTL": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getImportTypeCandidates": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebLabelHelper": {
+      "methods": [],
+      "staticProps": [
+        "argCount",
+        "initialize",
+        "endEditing",
+        "cancelEditing"
+      ]
+    },
+    "LabelLeader": {
+      "methods": [],
+      "staticProps": [
+        "values",
+        "argCount",
+        "Hidden",
+        "View",
+        "Model"
+      ]
+    },
+    "LabelSelectionType": {
+      "methods": [],
+      "staticProps": [
+        "values",
+        "argCount",
+        "ScreenText",
+        "LeaderText",
+        "CurrentSelection"
+      ]
+    },
+    "WebLabelInfo": {
+      "methods": [
+        "hasCommonFont",
+        "getCommonFont",
+        "setCommonFont",
+        "getArrowType",
+        "canSetArrowType",
+        "setArrowType",
+        "getLeaderType",
+        "canSetLeaderType",
+        "setLeaderType"
+      ],
+      "staticProps": [
+        "argCount",
+        "getInstance"
+      ]
+    },
+    "WebLayer": {
+      "methods": [
+        "getId",
+        "getThumbnail",
+        "setActive",
+        "isActive",
+        "isDefaultLayer",
+        "isHidden",
+        "getName",
+        "setHidden",
+        "remove",
+        "rename",
+        "isUsed",
+        "setColor",
+        "getColor",
+        "ensureMaterialHasThumbnail"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "LayerList": {
+      "methods": [
+        "push_back",
+        "resize",
+        "size",
+        "get",
+        "set"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebLayerBrowser": {
+      "methods": [
+        "getLayers",
+        "getLayerByName",
+        "getLayerById",
+        "layerExists",
+        "addLayer",
+        "purgeLayers",
+        "toggleColorByLayer",
+        "addSelectionToActiveLayer",
+        "getLayersNeedingMaterialThumbnails"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getLineStyles": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebMaterial": {
+      "methods": [
+        "name",
+        "thumbnail",
+        "hasNothingSelected",
+        "hasNoCommonMaterial",
+        "isSingleSelection",
+        "hasNoMaterial",
+        "canRemoveMaterial"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "MaterialNotificationType": {
+      "methods": [],
+      "staticProps": [
+        "values",
+        "argCount",
+        "currentSelection",
+        "deletion",
+        "modification",
+        "mutation",
+        "refCountChanged"
+      ]
+    },
+    "WebMaterialBrowserData": {
+      "methods": [
+        "copy",
+        "getThumbnail",
+        "deleteThumbnail",
+        "getName",
+        "handleClick",
+        "handleDblClick",
+        "saveMaterial",
+        "isInModel",
+        "isEqualTo",
+        "getMaterialId",
+        "remove"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "MaterialList": {
+      "methods": [
+        "push_back",
+        "resize",
+        "size",
+        "get",
+        "set"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebMaterialBrowser": {
+      "methods": [
+        "getInModelMaterials",
+        "getInModelMaterial",
+        "getMaterialsNeedingThumbnails",
+        "ensureMaterialHasThumbnail",
+        "getUnusedModelMaterials",
+        "loadMaterialFromPath",
+        "loadMaterialFromSkm",
+        "replacePbrMaterialFromSkm",
+        "translateCategoryName",
+        "canPurge",
+        "purge",
+        "createMaterial"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GetInModelMaterialName": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SelectDefaultMaterial": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "CMaterialEditorHelper": {
+      "methods": [
+        "isTextured",
+        "setXScale",
+        "setYScale",
+        "getTransparency",
+        "setColor",
+        "isColorized",
+        "setMetalnessFactor"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebMaterialEditor": {
+      "methods": [
+        "getType",
+        "getMaterialId",
+        "cancel",
+        "getXScale",
+        "getYScale",
+        "isNameValid",
+        "getName",
+        "setName",
+        "setTransparency",
+        "getThumbnail",
+        "replaceTextureFile",
+        "clearTextureFile",
+        "getColor",
+        "getTextureFile",
+        "getFullTextureImage",
+        "getTextureImageThumbnail",
+        "resetColor",
+        "isMetalnessEnabled",
+        "enableMetalness",
+        "setMetalnessTextureImage",
+        "getMetalnessTextureImage",
+        "getMetalnessFileName",
+        "getMetalnessFactor",
+        "isRoughnessEnabled",
+        "enableRoughness",
+        "setRoughnessTextureImage",
+        "getRoughnessTextureImage",
+        "getRoughnessFileName",
+        "getRoughnessFactor",
+        "setRoughnessFactor",
+        "isNormalEnabled",
+        "enableNormal",
+        "setNormalTextureImage",
+        "getNormalTextureImage",
+        "getNormalFileName",
+        "getNormalScale",
+        "setNormalScale",
+        "isAmbientOcclusionEnabled",
+        "enableAmbientOcclusion",
+        "setAmbientOcclusionTextureImage",
+        "getAmbientOcclusionTextureImage",
+        "getAmbientOcclusionFileName",
+        "getAmbientOcclusionStrength",
+        "setAmbientOcclusionStrength"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebMaterialMatcher": {
+      "methods": [
+        "isLastMatchedEqualTo"
+      ],
+      "staticProps": [
+        "argCount",
+        "getInstance"
+      ]
+    },
+    "getWasmMemory": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getWasmMaxMemory": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getWasmUsedMemory": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "heapOverflow": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "allocateDebugMemoryPercentage": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "clearDebugMemory": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "clearUndoStack": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "nonUndoablePurge": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "estimateModelSize": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getModelInfo": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GetMetadataFromSkpFile": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebModelMetadata": {
+      "methods": [
+        "getName",
+        "getDescription",
+        "getUnits",
+        "getThumbnail"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "setSearchOverride": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebOmnibarSeach": {
+      "methods": [
+        "setQuery",
+        "onActivate",
+        "updateAllProps"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebOutliner_RegisterListener": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebOutliner_GetRootNode": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebOutliner_AddToSelectionSet": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebOutliner_BulkAddToSelectionSet": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebOutliner_RemoveFromSelectionSet": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebOutliner_BulkRemoveFromSelectionSet": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebOutliner_CanReparent": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebOutliner_Reparent": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebOutliner_ClearSelectionSet": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebOutliner_ClearActivePath": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebOutliner_PrepareContextMenu": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebOutliner_SetAllVisible": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebOutlinerNode": {
+      "methods": [
+        "getId",
+        "getName",
+        "setName",
+        "getType",
+        "numChildren",
+        "getChildren",
+        "isSelected",
+        "isOnActivePath",
+        "isVisible",
+        "canSetVisible",
+        "setVisible",
+        "isLocked",
+        "setLocked"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebOutlinerNodeVector": {
+      "methods": [
+        "push_back",
+        "resize",
+        "size",
+        "get",
+        "set"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "InitPrefs": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SavePrefs": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "ShareLevel": {
+      "methods": [],
+      "staticProps": [
+        "values",
+        "argCount",
+        "thisComputerOnly",
+        "sharedAllComputers",
+        "webOnly"
+      ]
+    },
+    "DeletePref": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "PrefExists": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GetPref": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SetPref": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SetXAxisColor": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SetYAxisColor": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SetZAxisColor": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SetRotationGripsInMoveTool": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebProceduralControls": {
+      "methods": [
+        "hasValidSelection",
+        "getInstanceCount",
+        "getDeclarationState",
+        "getWidgetStates",
+        "setControlValue",
+        "clickButton"
+      ],
+      "staticProps": [
+        "argCount",
+        "getInstance"
+      ]
+    },
+    "getRenderingOptionInt": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebBackgroundManager": {
+      "methods": [
+        "restoreBackground",
+        "setBlankBackground"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebScenesBrowser": {
+      "methods": [
+        "startStopSlideshow",
+        "addScene",
+        "addSceneWithDefaultName",
+        "getScenes",
+        "getScenesNeedingThumbnails",
+        "ensureSceneHasThumbnail",
+        "moveSceneToIndex",
+        "settings"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "SceneList": {
+      "methods": [
+        "push_back",
+        "resize",
+        "size",
+        "get",
+        "set"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebSceneWrapper": {
+      "methods": [
+        "pid",
+        "description",
+        "includeInSlideshow",
+        "useCamera",
+        "useHiddenObjects",
+        "useHiddenGeometry",
+        "useEnvironment",
+        "useLayerVisibility",
+        "useSectionPlanes",
+        "useRenderingOptions",
+        "useShadowInfo",
+        "useAxes",
+        "hasDiffusionWatermark",
+        "getName",
+        "getDisplayName",
+        "getThumbnail",
+        "isSelected",
+        "activate",
+        "activateIgnoringCamera",
+        "remove",
+        "rename",
+        "update",
+        "getProperties",
+        "editAndUpdate"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "createWebSceneProperties": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "startPageFrameListener": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "stopPageFrameListener": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebSectionPlaneInfo": {
+      "methods": [
+        "hasCommonName",
+        "getCommonName",
+        "setName",
+        "hasCommonSymbol",
+        "getCommonSymbol",
+        "setSymbol"
+      ],
+      "staticProps": [
+        "argCount",
+        "getInstance"
+      ]
+    },
+    "ShadowDateTime": {
+      "methods": [
+        "year",
+        "month",
+        "day",
+        "hour",
+        "minute"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "DoubleVector": {
+      "methods": [
+        "push_back",
+        "resize",
+        "size",
+        "get",
+        "set"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebShadowsBrowser": {
+      "methods": [
+        "enableShadows",
+        "shadowsEnabled",
+        "getSunriseInMinutes",
+        "getSunsetInMinutes",
+        "getTimeInMinutes",
+        "getDayOfYear",
+        "getDaysInYear",
+        "getShadowDateTime",
+        "setTimeFromSunriseInMinutes",
+        "setDaysFromJanFirst",
+        "setMonthAndDay",
+        "getLight",
+        "setLight",
+        "getDark",
+        "setDark",
+        "getDisplayOnGround",
+        "setDisplayOnGround",
+        "getEdgesCastShadows",
+        "setEdgesCastShadows",
+        "getDisplayOnFaces",
+        "setDisplayOnFaces",
+        "getUseSunForShading",
+        "setUseSunForShading",
+        "setTimeZoneOffsetByIndex",
+        "getTimeZoneOffset",
+        "getSupportedTimeZones",
+        "getTrueNorth",
+        "setTrueNorth"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "findCommandId": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "findShortcut": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "setShortcut": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "deleteShortcut": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "restoreDefaultShortcuts": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "saveShortcuts": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "loadShortcuts": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getShortcutString": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "isVCBTrigger": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "setKeyNameGetter": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "setupDefaultShortcuts": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "CStyleEditorHelper": {
+      "methods": [
+        "getDisplayEdges",
+        "canSetDisplayEdges",
+        "setDisplayEdges",
+        "canDisplayBackEdges",
+        "getDisplayBackEdges",
+        "setDisplayBackEdges",
+        "getDisplayProfileEdges",
+        "setDisplayProfileEdges",
+        "getProfileEdgeThickness",
+        "setProfileEdgeThickness",
+        "getDisplayDepthCue",
+        "setDisplayDepthCue",
+        "getDepthCueThickness",
+        "setDepthCueThickness",
+        "getDisplayExtension",
+        "setDisplayExtension",
+        "getExtensionLength",
+        "setExtensionLength",
+        "getDisplayEndpoints",
+        "setDisplayEndpoints",
+        "getEndpointThickness",
+        "setEndpointThickness",
+        "getDisplayJitter",
+        "setDisplayJitter",
+        "getEdgeColorMode",
+        "setEdgeColorMode",
+        "getEdgeColor",
+        "setEdgeColor",
+        "getMaterialTransparency",
+        "setMaterialTransparency",
+        "getFrontFaceColor",
+        "setFrontFaceColor",
+        "getBackFaceColor",
+        "setBackFaceColor",
+        "getTransparencyQuality",
+        "setTransparencyQuality",
+        "getShowGroundFromBelow",
+        "setShowGroundFromBelow",
+        "getBackgroundColor",
+        "setBackgroundColor",
+        "getShowSky",
+        "setShowSky",
+        "getSkyColor",
+        "setSkyColor",
+        "setHorizonColor",
+        "getShowGround",
+        "setShowGround",
+        "getGroundColor",
+        "setGroundColor",
+        "getGroundTransparency",
+        "setGroundTransparency",
+        "getSelectedColor",
+        "setSelectedColor",
+        "getLockedColor",
+        "setLockedColor",
+        "getGuideColor",
+        "setGuideColor",
+        "getInactiveSectionColor",
+        "setInactiveSectionColor",
+        "getActiveSectionColor",
+        "setActiveSectionColor",
+        "getSectionFillColor",
+        "setSectionFillColor",
+        "getSectionLineColor",
+        "setSectionLineColor",
+        "getSectionLineWidth",
+        "setSectionLineWidth",
+        "getHiddenObjects",
+        "setHiddenObjects",
+        "getHiddenGeometry",
+        "setHiddenGeometry",
+        "getColorByLayer",
+        "setColorByLayer",
+        "getGuides",
+        "setGuides",
+        "getModelAxes",
+        "setModelAxes",
+        "getSectionPlanes",
+        "toggleSectionPlanes",
+        "getSectionCuts",
+        "toggleSectionCuts",
+        "getSectionFill",
+        "toggleSectionFill",
+        "getForegroundPhoto",
+        "setForegroundPhoto",
+        "getBackgroundPhoto",
+        "setBackgroundPhoto",
+        "getForegroundPhotoOpacity",
+        "setForegroundPhotoOpacity",
+        "getBackgroundPhotoOpacity",
+        "setBackgroundPhotoOpacity"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebStyleEditor": {
+      "methods": [
+        "getDisplayStyle",
+        "setDisplayStyle",
+        "getThumbnail",
+        "ensureActiveStyleHasThumbnail",
+        "isNameValid",
+        "getName",
+        "setName",
+        "saveChanges",
+        "discardChanges",
+        "isActiveStyleModified",
+        "isActiveStyleFast",
+        "getHorizonColorForDisplay",
+        "getDisplayWatermarks",
+        "setDisplayWatermarks",
+        "setDiffusionWatermark",
+        "forceActiveStyleChanged",
+        "getEnableXray",
+        "setEnableXray",
+        "isAOEnabled",
+        "setAOEnabled",
+        "getAODistance",
+        "setAODistance",
+        "getAOIntensity",
+        "setAOIntensity"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "EEdgeColorMode": {
+      "methods": [],
+      "staticProps": [
+        "values",
+        "argCount",
+        "kForegroundColor",
+        "kObjectColor",
+        "kDirectionColor"
+      ]
+    },
+    "WebFaceDisplayStyle": {
+      "methods": [],
+      "staticProps": [
+        "values",
+        "argCount",
+        "Wireframe",
+        "HiddenLine",
+        "Shaded",
+        "Texture",
+        "Monochrome",
+        "PBR"
+      ]
+    },
+    "WebStyleNameStatus": {
+      "methods": [],
+      "staticProps": [
+        "values",
+        "argCount",
+        "IsValid",
+        "IsEmpty",
+        "IsDuplicate",
+        "UnknownReason"
+      ]
+    },
+    "StyleNotificationType": {
+      "methods": [],
+      "staticProps": [
+        "values",
+        "argCount",
+        "CurrentSelection",
+        "Deletion",
+        "Modification"
+      ]
+    },
+    "WebStylesBrowserData": {
+      "methods": [
+        "getName",
+        "getThumbnail",
+        "isSelected",
+        "isFast",
+        "handleClick"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "StyleList": {
+      "methods": [
+        "push_back",
+        "resize",
+        "size",
+        "get",
+        "set"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebStylesBrowser": {
+      "methods": [
+        "getInModelStyles",
+        "getStylesNeedingThumbnails",
+        "getInModelStylePointers",
+        "ensureStyleHasThumbnail",
+        "loadStyleFromPath",
+        "isNprStyle",
+        "translateCategoryName",
+        "canPurge",
+        "purge",
+        "createStyleFromActive"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "TagItemList": {
+      "methods": [
+        "push_back",
+        "resize",
+        "size",
+        "get",
+        "set"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "TagTreeBrowser": {
+      "methods": [
+        "populate",
+        "setVisibility",
+        "setVisibilityForTag",
+        "setMasterVisibility",
+        "setName",
+        "deleteTags",
+        "reparentTags",
+        "getItemData",
+        "setLineStyle",
+        "setMaterialColor",
+        "getCustomLineStyleName",
+        "addTag",
+        "addFolder",
+        "setSelected",
+        "clearSelected",
+        "assignSelectionToTag",
+        "reparentSelected",
+        "getAllTags",
+        "doesSelectionContainGeometry",
+        "setFilter",
+        "matchesFilter",
+        "doesAnySelectedContainFolder",
+        "isTagUsed",
+        "purgeUnusedLayers",
+        "getLineStyleByTag",
+        "reloadNameCache",
+        "resetActiveLayer",
+        "getParentFolder",
+        "isInNameCache",
+        "getRootTags",
+        "populateRootTags",
+        "hasSelection"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebTextOptions_GetDimensionFontFace": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebTextOptions_GetDimensionFontBold": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebTextOptions_GetDimensionFontItalic": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebTextOptions_GetDimensionFontSize": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebTextOptions_SetDimensionFont": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebTextOptions_GetDimensionArrowType": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebTextOptions_SetDimensionArrowType": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebTextOptions_GetDimensionTextAlignment": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebTextOptions_SetDimensionTextAlignment": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebTextOptions_GetRadialDimensionTextAlignment": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebTextOptions_SetRadialDimensionTextAlignment": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebTextOptions_ApplyDefaultStyleToAllDimensions": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "lengthToString": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "lengthToStringDetailed": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "parseLength": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getLengthUnitConversionFactor": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "unitLengthInInches": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "isValidLength": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getModelLengthUnits": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "WebUnitsOptions": {
+      "methods": [
+        "getLengthFormat",
+        "setLengthFormat",
+        "getLengthPrecision",
+        "setLengthPrecision",
+        "getLengthUnit",
+        "setLengthUnit",
+        "getAreaPrecision",
+        "setAreaPrecision",
+        "getAreaUnit",
+        "setAreaUnit",
+        "getVolumePrecision",
+        "setVolumePrecision",
+        "getVolumeUnit",
+        "setVolumeUnit",
+        "getLengthSnapEnabled",
+        "setLengthSnapEnabled",
+        "getSnapLength",
+        "setSnapLength",
+        "getAnglePrecision",
+        "setAnglePrecision",
+        "getAngleSnapEnabled",
+        "setAngleSnapEnabled",
+        "getSnapAngle",
+        "setSnapAngle"
+      ],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GetSessionInputData": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "draw": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "forceModifierKeysUp": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "mouseMoveHandler": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "mouseButtonHandler": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "scrollHandler": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "zoomHandler": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "onKeyDown": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "onKeyUp": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "onMouseEnteredCanvas": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "resizeView": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "setIsoViewDirection": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "setFieldOfView": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "initialize3dConnexionDrawService": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "start3dConnexionMotion": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "stop3dConnexionMotion": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "set3dConnexionCenterOfRotationPosition": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "set3dConnexionCenterOfRotationVisible": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getFieldOfView": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getCameraHeight": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getHlrClipWindow": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getViewportDimensions": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "saveCamera": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "restoreCamera": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "renderToImageBuffer": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "canUseAntialiasedOffScreenContext": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "setImagePath": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "setNavigationDevice": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "setTrackpadDragBehavior": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "buildMenuActiveModelSelection": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "setDisplayWatermarks": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getViewMatrix": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "setViewMatrix": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "setCameraAnimated": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "flyToPerspectiveCamera": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "flyToParallelCamera": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getViewFrustum": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getModelExtents": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "intersectCenterOfViewport": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getPointerPosition": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getPerspective": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getOrthographicViewExtents": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "setOrthographicViewExtents": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "isSelectionEmpty": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getSelectionExtents": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "getCameraRestorationData": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "setCameraFromRestorationData": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "updateCollaborationCursor": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "NavigationDevice": {
+      "methods": [],
+      "staticProps": [
+        "values",
+        "argCount",
+        "MOUSE",
+        "TRACKPAD",
+        "AUTO_DETECT"
+      ]
+    },
+    "TrackpadDragBehavior": {
+      "methods": [],
+      "staticProps": [
+        "values",
+        "argCount",
+        "ORBIT",
+        "PAN",
+        "ZOOM"
+      ]
+    },
+    "SetWarehouseModelId": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GetWarehouseModelId": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "UpdateWarehouseCredits": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "GetLatestContributorUserID": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "ensureWatermark": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    },
+    "removeWatermark": {
+      "methods": [],
+      "staticProps": [
+        "argCount"
+      ]
+    }
+  }
+}

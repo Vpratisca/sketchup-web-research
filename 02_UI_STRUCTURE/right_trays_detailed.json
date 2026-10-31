@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Entity Info",
+    "elementTag": "P",
+    "elementClass": "title_UtABLreA",
+    "containerTag": "DIV",
+    "containerClass": "header_V-z6+acU",
+    "rect": {},
+    "parentChain": [
+      "DIV.header_V-z6+acU",
+      "DIV.panel_6HI+3PX6",
+      "DIV.right-sidebar-panel-container_ddUjGTjs"
+    ]
+  },
+  {
+    "name": "Components",
+    "elementTag": "P",
+    "elementClass": "title_UtABLreA",
+    "containerTag": "DIV",
+    "containerClass": "header_V-z6+acU",
+    "rect": {},
+    "parentChain": [
+      "DIV.header_V-z6+acU",
+      "DIV.panel_6HI+3PX6",
+      "DIV.right-sidebar-panel-container_ddUjGTjs"
+    ]
+  },
+  {
+    "name": "Instructor",
+    "elementTag": "P",
+    "elementClass": "title_UtABLreA",
+    "containerTag": "DIV",
+    "containerClass": "header_V-z6+acU",
+    "rect": {},
+    "parentChain": [
+      "DIV.header_V-z6+acU",
+      "DIV.panel_6HI+3PX6",
+      "DIV.right-sidebar-panel-container_ddUjGTjs"
+    ]
+  },
+  {
+    "name": "3D Warehouse",
+    "elementTag": "P",
+    "elementClass": "title_UtABLreA",
+    "containerTag": "DIV",
+    "containerClass": "header_V-z6+acU",
+    "rect": {},
+    "parentChain": [
+      "DIV.header_V-z6+acU",
+      "DIV.panel_6HI+3PX6",
+      "DIV.right-sidebar-panel-container_ddUjGTjs"
+    ]
+  },
+  {
+    "name": "Materials",
+    "elementTag": "P",
+    "elementClass": "title_UtABLreA",
+    "containerTag": "DIV",
+    "containerClass": "header_V-z6+acU",
+    "rect": {},
+    "parentChain": [
+      "DIV.header_V-z6+acU",
+      "DIV.panel_6HI+3PX6",
+      "DIV.right-sidebar-panel-container_ddUjGTjs"
+    ]
+  },
+  {
+    "name": "Styles",
+    "elementTag": "P",
+    "elementClass": "title_UtABLreA",
+    "containerTag": "DIV",
+    "containerClass": "header_V-z6+acU",
+    "rect": {},
+    "parentChain": [
+      "DIV.header_V-z6+acU",
+      "DIV.panel_6HI+3PX6",
+      "DIV.right-sidebar-panel-container_ddUjGTjs"
+    ]
+  },
+  {
+    "name": "Tags",
+    "elementTag": "P",
+    "elementClass": "title_UtABLreA",
+    "containerTag": "DIV",
+    "containerClass": "header_V-z6+acU",
+    "rect": {},
+    "parentChain": [
+      "DIV.header_V-z6+acU",
+      "DIV.panel_6HI+3PX6",
+      "DIV.right-sidebar-panel-container_ddUjGTjs"
+    ]
+  },
+  {
+    "name": "Shadows",
+    "elementTag": "P",
+    "elementClass": "title_UtABLreA",
+    "containerTag": "DIV",
+    "containerClass": "header_V-z6+acU",
+    "rect": {},
+    "parentChain": [
+      "DIV.header_V-z6+acU",
+      "DIV.panel_6HI+3PX6",
+      "DIV.right-sidebar-panel-container_ddUjGTjs"
+    ]
+  },
+  {
+    "name": "Scenes",
+    "elementTag": "P",
+    "elementClass": "title_UtABLreA",
+    "containerTag": "DIV",
+    "containerClass": "header_V-z6+acU",
+    "rect": {},
+    "parentChain": [
+      "DIV.header_V-z6+acU",
+      "DIV.panel_6HI+3PX6",
+      "DIV.right-sidebar-panel-container_ddUjGTjs"
+    ]
+  },
+  {
+    "name": "Display",
+    "elementTag": "P",
+    "elementClass": "title_UtABLreA",
+    "containerTag": "DIV",
+    "containerClass": "header_V-z6+acU",
+    "rect": {},
+    "parentChain": [
+      "DIV.header_V-z6+acU",
+      "DIV.panel_6HI+3PX6",
+      "DIV.right-sidebar-panel-container_ddUjGTjs"
+    ]
+  },
+  {
+    "name": "Soften / Smooth",
+    "elementTag": "P",
+    "elementClass": "title_UtABLreA",
+    "containerTag": "DIV",
+    "containerClass": "header_V-z6+acU",
+    "rect": {},
+    "parentChain": [
+      "DIV.header_V-z6+acU",
+      "DIV.panel_6HI+3PX6",
+      "DIV.right-sidebar-panel-container_ddUjGTjs"
+    ]
+  },
+  {
+    "name": "Model Info",
+    "elementTag": "P",
+    "elementClass": "title_UtABLreA",
+    "containerTag": "DIV",
+    "containerClass": "header_V-z6+acU",
+    "rect": {},
+    "parentChain": [
+      "DIV.header_V-z6+acU",
+      "DIV.panel_6HI+3PX6",
+      "DIV.right-sidebar-panel-container_ddUjGTjs"
+    ]
+  }
+]

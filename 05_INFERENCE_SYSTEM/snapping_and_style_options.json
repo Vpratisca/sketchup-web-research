@@ -1,0 +1,18 @@
+{
+  "unitsAndSnapping": {
+    "getLengthFormat": 1,
+    "getLengthPrecision": 4,
+    "getLengthUnit": 0,
+    "getLengthSnapEnabled": true,
+    "getSnapLength": 0.0625,
+    "getAngleSnapEnabled": true,
+    "getSnapAngle": 15,
+    "getAreaPrecision": 2,
+    "getAreaUnit": 1,
+    "getVolumePrecision": 2,
+    "getVolumeUnit": 1
+  },
+  "styleEdges": {
+    "error": "CStyleEditorHelper has no accessible constructor"
+  }
+}

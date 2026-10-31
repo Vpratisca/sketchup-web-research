@@ -1,0 +1,875 @@
+{
+  "totalButtons": 58,
+  "visibleButtons": [
+    {
+      "index": 0,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "button_QJJk+hj7 action-button_u4baLi2h action-button-shrinkable_W7XCtotV home-bar-button_LfjHzrsQ",
+      "title": "Open Model/Preferences",
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "homebar-menuButton"
+      },
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 44,
+        "height": 44
+      },
+      "visible": true
+    },
+    {
+      "index": 1,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "button_QJJk+hj7 action-button_u4baLi2h action-button-shrinkable_W7XCtotV square-button_nS5PJcpC square-button-shrinkable_oaM3fCwO",
+      "title": "SketchUp AI",
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "homebar-aiLauncherButton"
+      },
+      "rect": {
+        "x": 112.421875,
+        "y": 0,
+        "width": 24,
+        "height": 44
+      },
+      "visible": true
+    },
+    {
+      "index": 2,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "button_QJJk+hj7 action-button_u4baLi2h action-button-shrinkable_W7XCtotV square-button_nS5PJcpC square-button-shrinkable_oaM3fCwO",
+      "title": "Undo",
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "homebar-undoButton"
+      },
+      "rect": {
+        "x": 138.421875,
+        "y": 0,
+        "width": 24,
+        "height": 44
+      },
+      "visible": true
+    },
+    {
+      "index": 3,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "button_QJJk+hj7 action-button_u4baLi2h action-button-shrinkable_W7XCtotV square-button_nS5PJcpC square-button-shrinkable_oaM3fCwO",
+      "title": "Redo",
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "homebar-redoButton"
+      },
+      "rect": {
+        "x": 164.421875,
+        "y": 0,
+        "width": 24,
+        "height": 44
+      },
+      "visible": true
+    },
+    {
+      "index": 4,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "button_QJJk+hj7 action-button_u4baLi2h action-button-shrinkable_W7XCtotV square-button_nS5PJcpC square-button-shrinkable_oaM3fCwO",
+      "title": "Save failed",
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "homebar-saveFailedButton"
+      },
+      "rect": {
+        "x": 190.421875,
+        "y": 0,
+        "width": 24,
+        "height": 44
+      },
+      "visible": true
+    },
+    {
+      "index": 5,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "tool-button_ysBvF2TY",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {},
+      "rect": {
+        "x": 6,
+        "y": 152.765625,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 6,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "draggable-tool_Fbrxs0DS",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "draggable-main-tool"
+      },
+      "rect": {
+        "x": 6,
+        "y": 207.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 7,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "tool-button_ysBvF2TY",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {},
+      "rect": {
+        "x": 6,
+        "y": 207.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 8,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "draggable-tool_Fbrxs0DS",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "draggable-main-tool"
+      },
+      "rect": {
+        "x": 6,
+        "y": 247.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 9,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "tool-button_ysBvF2TY",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {},
+      "rect": {
+        "x": 6,
+        "y": 247.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 10,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "draggable-tool_Fbrxs0DS",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "draggable-main-tool"
+      },
+      "rect": {
+        "x": 6,
+        "y": 287.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 11,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "tool-button_ysBvF2TY",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {},
+      "rect": {
+        "x": 6,
+        "y": 287.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 12,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "draggable-tool_Fbrxs0DS",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "draggable-main-tool"
+      },
+      "rect": {
+        "x": 6,
+        "y": 327.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 13,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "tool-button_ysBvF2TY",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {},
+      "rect": {
+        "x": 6,
+        "y": 327.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 14,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "draggable-tool_Fbrxs0DS",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "draggable-main-tool"
+      },
+      "rect": {
+        "x": 6,
+        "y": 367.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 15,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "tool-button_ysBvF2TY",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {},
+      "rect": {
+        "x": 6,
+        "y": 367.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 16,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "draggable-tool_Fbrxs0DS",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "draggable-main-tool"
+      },
+      "rect": {
+        "x": 6,
+        "y": 407.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 17,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "tool-button_ysBvF2TY",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {},
+      "rect": {
+        "x": 6,
+        "y": 407.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 18,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "draggable-tool_Fbrxs0DS",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "draggable-main-tool"
+      },
+      "rect": {
+        "x": 6,
+        "y": 447.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 19,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "tool-button_ysBvF2TY",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {},
+      "rect": {
+        "x": 6,
+        "y": 447.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 20,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "draggable-tool_Fbrxs0DS",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "draggable-main-tool"
+      },
+      "rect": {
+        "x": 6,
+        "y": 487.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 21,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "tool-button_ysBvF2TY",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {},
+      "rect": {
+        "x": 6,
+        "y": 487.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 22,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "draggable-tool_Fbrxs0DS",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "draggable-main-tool"
+      },
+      "rect": {
+        "x": 6,
+        "y": 527.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 23,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "tool-button_ysBvF2TY",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {},
+      "rect": {
+        "x": 6,
+        "y": 527.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 24,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "draggable-tool_Fbrxs0DS",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "draggable-main-tool"
+      },
+      "rect": {
+        "x": 6,
+        "y": 567.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 25,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "tool-button_ysBvF2TY",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {},
+      "rect": {
+        "x": 6,
+        "y": 567.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 26,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "draggable-tool_Fbrxs0DS",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "draggable-main-tool"
+      },
+      "rect": {
+        "x": 6,
+        "y": 607.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 27,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "tool-button_ysBvF2TY",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {},
+      "rect": {
+        "x": 6,
+        "y": 607.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 28,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "draggable-tool_Fbrxs0DS",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "draggable-main-tool"
+      },
+      "rect": {
+        "x": 6,
+        "y": 647.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 29,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "tool-button_ysBvF2TY",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {},
+      "rect": {
+        "x": 6,
+        "y": 647.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 30,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "draggable-tool_Fbrxs0DS",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {},
+      "rect": {
+        "x": 6,
+        "y": 697.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 31,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "tool-button_ysBvF2TY",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {},
+      "rect": {
+        "x": 6,
+        "y": 697.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 32,
+      "tag": "BUTTON",
+      "id": "toolbar-overflow-button",
+      "className": "show-overflow-button_lkoOYr-7",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "tools-overflow"
+      },
+      "rect": {
+        "x": 6,
+        "y": 737.234375,
+        "width": 40,
+        "height": 40
+      },
+      "visible": true
+    },
+    {
+      "index": 50,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "button_fRKBVj7Y undefined share-button_msTu6OER",
+      "title": "Share",
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "enableSharing-button"
+      },
+      "rect": {
+        "x": 858.078125,
+        "y": 8,
+        "width": 54.921875,
+        "height": 28
+      },
+      "visible": true
+    },
+    {
+      "index": 51,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "button_QJJk+hj7 action-button_nK07vJn2",
+      "title": "Hide/Show cursors",
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "toggle-show-cursors-button"
+      },
+      "rect": {
+        "x": 820.078125,
+        "y": 6,
+        "width": 32,
+        "height": 32
+      },
+      "visible": true
+    },
+    {
+      "index": 52,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "upgrade-button-canvas_GWsebBWr",
+      "title": "Upgrade Now",
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "upgrade-button"
+      },
+      "rect": {
+        "x": 736,
+        "y": 855,
+        "width": 180,
+        "height": 30
+      },
+      "visible": true
+    },
+    {
+      "index": 53,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "button_QJJk+hj7 hover-recolor_Sm5BZuEl",
+      "title": "More Details",
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {},
+      "rect": {
+        "x": 251.203125,
+        "y": 59,
+        "width": 32,
+        "height": 32
+      },
+      "visible": true
+    },
+    {
+      "index": 54,
+      "tag": "BUTTON",
+      "id": "titlebar-profile-button",
+      "className": "button_QJJk+hj7 profile-button_houdWFm3",
+      "title": "Profile",
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "titlebar-profileImage"
+      },
+      "rect": {
+        "x": 873,
+        "y": 16,
+        "width": 32,
+        "height": 32
+      },
+      "visible": true
+    },
+    {
+      "index": 55,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "button_fRKBVj7Y secondary_tw2L4L4r new-button_21P7rfPz",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "create-new-button"
+      },
+      "rect": {
+        "x": 251,
+        "y": 68,
+        "width": 130,
+        "height": 35
+      },
+      "visible": true
+    },
+    {
+      "index": 56,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "button_fRKBVj7Y secondary_tw2L4L4r menu-button_0Q+WsQsK",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "skpButton-secondary"
+      },
+      "rect": {
+        "x": 383,
+        "y": 68,
+        "width": 26,
+        "height": 35
+      },
+      "visible": true
+    },
+    {
+      "index": 57,
+      "tag": "BUTTON",
+      "id": null,
+      "className": "button_fRKBVj7Y undefined start-modeling-button_1m-IT1QE",
+      "title": null,
+      "ariaLabel": null,
+      "ariaExpanded": null,
+      "ariaHasPopup": null,
+      "dataset": {
+        "testid": "skpButton-primary"
+      },
+      "rect": {
+        "x": 443.5,
+        "y": 473,
+        "width": 269,
+        "height": 50
+      },
+      "visible": true
+    }
+  ],
+  "measurementsInfo": {
+    "tag": "INPUT",
+    "className": "",
+    "id": "measurements-box",
+    "value": "",
+    "placeholder": "",
+    "rect": {}
+  },
+  "toolbars": [
+    {
+      "tag": "DIV",
+      "className": "toolbar-container",
+      "id": "",
+      "role": null,
+      "ariaLabel": null,
+      "rect": {}
+    },
+    {
+      "tag": "DIV",
+      "className": "vertically-center-left-toolbar_HjcLTyR8",
+      "id": "",
+      "role": null,
+      "ariaLabel": null,
+      "rect": {}
+    },
+    {
+      "tag": "DIV",
+      "className": "toolbar-omnibar_K9zX-KOa",
+      "id": "omnibar-button",
+      "role": null,
+      "ariaLabel": null,
+      "rect": {}
+    },
+    {
+      "tag": "DIV",
+      "className": "toolbar-omnibar-container_gmjYGVRz",
+      "id": "omnibar-container",
+      "role": null,
+      "ariaLabel": null,
+      "rect": {}
+    },
+    {
+      "tag": "DIV",
+      "className": "toolbar-contents_T7ynK5pP no-overflow_s9ByX96E left-toolbar-shadow_mlTSOTTP",
+      "id": "",
+      "role": null,
+      "ariaLabel": null,
+      "rect": {}
+    },
+    {
+      "tag": "DIV",
+      "className": "left-toolbar-container_mNUQnFEB no-overflow_s9ByX96E",
+      "id": "",
+      "role": null,
+      "ariaLabel": null,
+      "rect": {}
+    },
+    {
+      "tag": "DIV",
+      "className": "left-toolbar-container_mNUQnFEB no-overflow_s9ByX96E",
+      "id": "",
+      "role": null,
+      "ariaLabel": null,
+      "rect": {}
+    },
+    {
+      "tag": "DIV",
+      "className": "toolbar-contents_T7ynK5pP no-overflow_s9ByX96E",
+      "id": "",
+      "role": null,
+      "ariaLabel": null,
+      "rect": {}
+    },
+    {
+      "tag": "DIV",
+      "className": "toolbar-contents_T7ynK5pP",
+      "id": "",
+      "role": null,
+      "ariaLabel": null,
+      "rect": {}
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "leftTools": [
+    {
+      "index": 0,
+      "tag": "BUTTON",
+      "className": "tool-button_ysBvF2TY",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#search",
+      "dataset": {}
+    },
+    {
+      "index": 1,
+      "tag": "BUTTON",
+      "className": "draggable-tool_Fbrxs0DS",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#select",
+      "dataset": {
+        "testid": "draggable-main-tool"
+      }
+    },
+    {
+      "index": 2,
+      "tag": "BUTTON",
+      "className": "tool-button_ysBvF2TY",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#select",
+      "dataset": {}
+    },
+    {
+      "index": 3,
+      "tag": "BUTTON",
+      "className": "draggable-tool_Fbrxs0DS",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#eraser",
+      "dataset": {
+        "testid": "draggable-main-tool"
+      }
+    },
+    {
+      "index": 4,
+      "tag": "BUTTON",
+      "className": "tool-button_ysBvF2TY",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#eraser",
+      "dataset": {}
+    },
+    {
+      "index": 5,
+      "tag": "BUTTON",
+      "className": "draggable-tool_Fbrxs0DS",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#pencil",
+      "dataset": {
+        "testid": "draggable-main-tool"
+      }
+    },
+    {
+      "index": 6,
+      "tag": "BUTTON",
+      "className": "tool-button_ysBvF2TY",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#pencil",
+      "dataset": {}
+    },
+    {
+      "index": 7,
+      "tag": "BUTTON",
+      "className": "draggable-tool_Fbrxs0DS",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#rectangle",
+      "dataset": {
+        "testid": "draggable-main-tool"
+      }
+    },
+    {
+      "index": 8,
+      "tag": "BUTTON",
+      "className": "tool-button_ysBvF2TY",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#rectangle",
+      "dataset": {}
+    },
+    {
+      "index": 9,
+      "tag": "BUTTON",
+      "className": "draggable-tool_Fbrxs0DS",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#push_pull",
+      "dataset": {
+        "testid": "draggable-main-tool"
+      }
+    },
+    {
+      "index": 10,
+      "tag": "BUTTON",
+      "className": "tool-button_ysBvF2TY",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#push_pull",
+      "dataset": {}
+    },
+    {
+      "index": 11,
+      "tag": "BUTTON",
+      "className": "draggable-tool_Fbrxs0DS",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#move",
+      "dataset": {
+        "testid": "draggable-main-tool"
+      }
+    },
+    {
+      "index": 12,
+      "tag": "BUTTON",
+      "className": "tool-button_ysBvF2TY",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#move",
+      "dataset": {}
+    },
+    {
+      "index": 13,
+      "tag": "BUTTON",
+      "className": "draggable-tool_Fbrxs0DS",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#rotate",
+      "dataset": {
+        "testid": "draggable-main-tool"
+      }
+    },
+    {
+      "index": 14,
+      "tag": "BUTTON",
+      "className": "tool-button_ysBvF2TY",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#rotate",
+      "dataset": {}
+    },
+    {
+      "index": 15,
+      "tag": "BUTTON",
+      "className": "draggable-tool_Fbrxs0DS",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#scale",
+      "dataset": {
+        "testid": "draggable-main-tool"
+      }
+    },
+    {
+      "index": 16,
+      "tag": "BUTTON",
+      "className": "tool-button_ysBvF2TY",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#scale",
+      "dataset": {}
+    },
+    {
+      "index": 17,
+      "tag": "BUTTON",
+      "className": "draggable-tool_Fbrxs0DS",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#paint_bucket",
+      "dataset": {
+        "testid": "draggable-main-tool"
+      }
+    },
+    {
+      "index": 18,
+      "tag": "BUTTON",
+      "className": "tool-button_ysBvF2TY",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#paint_bucket",
+      "dataset": {}
+    },
+    {
+      "index": 19,
+      "tag": "BUTTON",
+      "className": "draggable-tool_Fbrxs0DS",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#orbit",
+      "dataset": {
+        "testid": "draggable-main-tool"
+      }
+    },
+    {
+      "index": 20,
+      "tag": "BUTTON",
+      "className": "tool-button_ysBvF2TY",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#orbit",
+      "dataset": {}
+    },
+    {
+      "index": 21,
+      "tag": "BUTTON",
+      "className": "draggable-tool_Fbrxs0DS",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#pan",
+      "dataset": {
+        "testid": "draggable-main-tool"
+      }
+    },
+    {
+      "index": 22,
+      "tag": "BUTTON",
+      "className": "tool-button_ysBvF2TY",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#pan",
+      "dataset": {}
+    },
+    {
+      "index": 23,
+      "tag": "BUTTON",
+      "className": "draggable-tool_Fbrxs0DS",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#tape_measure",
+      "dataset": {
+        "testid": "draggable-main-tool"
+      }
+    },
+    {
+      "index": 24,
+      "tag": "BUTTON",
+      "className": "tool-button_ysBvF2TY",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#tape_measure",
+      "dataset": {}
+    },
+    {
+      "index": 25,
+      "tag": "BUTTON",
+      "className": "draggable-tool_Fbrxs0DS",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#zoom",
+      "dataset": {}
+    },
+    {
+      "index": 26,
+      "tag": "BUTTON",
+      "className": "tool-button_ysBvF2TY",
+      "ariaLabel": null,
+      "title": null,
+      "hasFlyout": false,
+      "rect": {},
+      "iconUse": "#zoom",
+      "dataset": {}
+    }
+  ],
+  "rightTrays": [],
+  "statusBarText": "Share\nsa",
+  "measurements": {
+    "id": "measurements-box",
+    "label": "Measurements",
+    "value": "",
+    "placeholder": ""
+  }
+}

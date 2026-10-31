@@ -1,0 +1,1205 @@
+{
+  "tree": {
+    "frameTree": {
+      "frame": {
+        "id": "E4A4BEC4ABF18F3943FF17391FD677D2",
+        "loaderId": "14184326A4F55EEF853D0952E3FDDF16",
+        "url": "https://app.sketchup.com/app",
+        "domainAndRegistry": "sketchup.com",
+        "securityOrigin": "https://app.sketchup.com",
+        "securityOriginDetails": {
+          "isLocalhost": false
+        },
+        "mimeType": "text/html",
+        "adFrameStatus": {
+          "adFrameType": "none"
+        },
+        "secureContextType": "Secure",
+        "crossOriginIsolatedContextType": "NotIsolated",
+        "gatedAPIFeatures": []
+      },
+      "resources": [
+        {
+          "url": "https://unpkg.com/@amplitude/experiment-js-client@1.15.5/dist/experiment.umd.js",
+          "type": "Script",
+          "mimeType": "text/javascript",
+          "lastModified": 1787618954,
+          "contentSize": 208533
+        },
+        {
+          "url": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-XI42GXDE.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1793380379,
+          "contentSize": 5548
+        },
+        {
+          "url": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/resources/fonts/OpenSans-Bold.woff",
+          "type": "Font",
+          "mimeType": "font/woff",
+          "lastModified": 1792693888,
+          "contentSize": 102060
+        },
+        {
+          "url": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-P5ZYY7FY.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1793380379,
+          "contentSize": 5450
+        },
+        {
+          "url": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-IOSYUZDM.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1793380379,
+          "contentSize": 75504
+        },
+        {
+          "url": "https://munchkin.marketo.net/munchkin.js",
+          "type": "Script",
+          "mimeType": "application/x-javascript",
+          "lastModified": 1778641548,
+          "contentSize": 1251
+        },
+        {
+          "url": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-3BZB6CBG.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1793380379,
+          "contentSize": 616900
+        },
+        {
+          "url": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/css/sketchup.css",
+          "type": "Stylesheet",
+          "mimeType": "text/css",
+          "lastModified": 1792693885,
+          "contentSize": 67437
+        },
+        {
+          "url": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/vendor.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1792693896,
+          "contentSize": 2037301
+        },
+        {
+          "url": "https://munchkin.marketo.net/165/munchkin.js",
+          "type": "Script",
+          "mimeType": "application/x-javascript",
+          "lastModified": 1771982218,
+          "contentSize": 12913
+        },
+        {
+          "url": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-ZUPYKBCY.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1793380379,
+          "contentSize": 463
+        },
+        {
+          "url": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/webapp_gl2_4gb.js.jgz",
+          "type": "Script",
+          "mimeType": "application/octet-stream",
+          "lastModified": 1792693897,
+          "contentSize": 578235
+        },
+        {
+          "url": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-ResourceCenterRoot-QLTGO3D2.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1793380379,
+          "contentSize": 6150
+        },
+        {
+          "url": "https://cdn.amplitude.com/engagement-browser/prod/split/index.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1793380380,
+          "contentSize": 123288
+        },
+        {
+          "url": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-37IACQ2J.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1793380379,
+          "contentSize": 38774
+        },
+        {
+          "url": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/script-loader.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1792693896,
+          "contentSize": 956
+        },
+        {
+          "url": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-KWQQC7ML.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1793380379,
+          "contentSize": 20263
+        },
+        {
+          "url": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/resources/fonts/OpenSans-SemiBold.woff",
+          "type": "Font",
+          "mimeType": "font/woff",
+          "lastModified": 1792693888,
+          "contentSize": 78004
+        },
+        {
+          "url": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/runtime.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1792693896,
+          "contentSize": 3792
+        },
+        {
+          "url": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-OYOUWI3R.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1793380379,
+          "contentSize": 270786
+        },
+        {
+          "url": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/images/web/select_default_c.svg",
+          "type": "Image",
+          "mimeType": "image/svg+xml",
+          "lastModified": 1792693887,
+          "contentSize": 1416
+        },
+        {
+          "url": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-7I6R6BWX.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1793380379,
+          "contentSize": 468
+        },
+        {
+          "url": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-SWVLSK3N.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1793380379,
+          "contentSize": 745
+        },
+        {
+          "url": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/init.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1792693888,
+          "contentSize": 3536
+        },
+        {
+          "url": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/common.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1792693885,
+          "contentSize": 4907357
+        },
+        {
+          "url": "https://fonts.googleapis.com/css?family=Muli:400,600|Roboto&display=swap&subset=latin-ext",
+          "type": "Stylesheet",
+          "mimeType": "text/css",
+          "lastModified": 1793405942,
+          "contentSize": 8129
+        },
+        {
+          "url": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-Y3KEDU4F.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1793380379,
+          "contentSize": 71414
+        },
+        {
+          "url": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-3HHX625A.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1793380379,
+          "contentSize": 471
+        },
+        {
+          "url": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/770.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1792693885,
+          "contentSize": 142460
+        },
+        {
+          "url": "https://cdn.amplitude.com/script/d347b84e9c28123dd91e04c5ca5201ed.engagement.js",
+          "type": "Script",
+          "mimeType": "text/javascript",
+          "contentSize": 10097
+        },
+        {
+          "url": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/lib/3dconnexion.min.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1792693888,
+          "contentSize": 71364
+        },
+        {
+          "url": "https://cdn.amplitude.com/libs/analytics-browser-2.47.0-min.js.gz",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1790192139,
+          "contentSize": 251351
+        },
+        {
+          "url": "https://cdn.amplitude.com/libs/plugin-session-replay-browser-1.35.3-min.js.gz",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1790192165,
+          "contentSize": 490491
+        },
+        {
+          "url": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-BQPJ47ZS.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1793380379,
+          "contentSize": 74169
+        },
+        {
+          "url": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-DR3J4UP6.js",
+          "type": "Script",
+          "mimeType": "application/javascript",
+          "lastModified": 1793380379,
+          "contentSize": 40657
+        },
+        {
+          "url": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/images/web/home_tab_image.png",
+          "type": "Image",
+          "mimeType": "image/png",
+          "lastModified": 1792693886,
+          "contentSize": 4676
+        }
+      ]
+    }
+  },
+  "performanceResources": {
+    "resources": [
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/css/sketchup.css",
+        "initiatorType": "link",
+        "transferSize": 0,
+        "encodedBodySize": 67437,
+        "decodedBodySize": 67437,
+        "duration": 78.79999999701977,
+        "startTime": 1072.5
+      },
+      {
+        "name": "https://fonts.googleapis.com/css?family=Muli:400,600|Roboto&display=swap&subset=latin-ext",
+        "initiatorType": "link",
+        "transferSize": 0,
+        "encodedBodySize": 1607,
+        "decodedBodySize": 8129,
+        "duration": 3,
+        "startTime": 1073
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/script-loader.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 956,
+        "decodedBodySize": 956,
+        "duration": 90.19999999552965,
+        "startTime": 1073.1000000014901
+      },
+      {
+        "name": "https://app.sketchup.com/manifest",
+        "initiatorType": "link",
+        "transferSize": 300,
+        "encodedBodySize": 10371,
+        "decodedBodySize": 10371,
+        "duration": 643.1999999955297,
+        "startTime": 1083.6000000014901
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/lib/3dconnexion.min.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 71364,
+        "decodedBodySize": 71364,
+        "duration": 2.899999998509884,
+        "startTime": 1166
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/runtime.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 3792,
+        "decodedBodySize": 3792,
+        "duration": 2.600000001490116,
+        "startTime": 1166.1000000014901
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/vendor.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 2037301,
+        "decodedBodySize": 2037301,
+        "duration": 16.600000001490116,
+        "startTime": 1166.2999999970198
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/init.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 3536,
+        "decodedBodySize": 3536,
+        "duration": 2.5,
+        "startTime": 1166.3999999985099
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/common.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 4907357,
+        "decodedBodySize": 4907357,
+        "duration": 38.600000001490116,
+        "startTime": 1166.3999999985099
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/770.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 142460,
+        "decodedBodySize": 142460,
+        "duration": 3.2999999970197678,
+        "startTime": 1502.2000000029802
+      },
+      {
+        "name": "https://api.sketchup.com/featuretoggles/v1/clients/SKETCHUP_FOR_WEB/featuretoggles/status",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 348,
+        "startTime": 1562.8999999985099
+      },
+      {
+        "name": "https://cdn.jsdelivr.net/npm/emoji-picker-element-data@%5E1/en/emojibase/data.json",
+        "initiatorType": "fetch",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 4.299999997019768,
+        "startTime": 1567.6000000014901
+      },
+      {
+        "name": "https://app.sketchup.com/icons/android/android-launchericon-144-144.png",
+        "initiatorType": "other",
+        "transferSize": 300,
+        "encodedBodySize": 7170,
+        "decodedBodySize": 7170,
+        "duration": 27.599999994039536,
+        "startTime": 1730.7000000029802
+      },
+      {
+        "name": "https://sentry.io/api/1187539/envelope/?sentry_version=7&sentry_key=fc7fb57f0fdf4f63b77440398c800cb0&sentry_client=sentry.javascript.browser%2F10.27.0",
+        "initiatorType": "fetch",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 301.1000000014901,
+        "startTime": 1914.7999999970198
+      },
+      {
+        "name": "https://api.sketchup.com/login/v2/users/me",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 370.19999999552965,
+        "startTime": 1917.1000000014901
+      },
+      {
+        "name": "https://api.sketchup.com/login/v2/users/connecttoken",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 337.90000000596046,
+        "startTime": 1917.2999999970198
+      },
+      {
+        "name": "https://3dwarehouse.sketchup.com/warehouse/v1.0/users/me?recordEvent=false",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 202.5,
+        "startTime": 2289.2999999970198
+      },
+      {
+        "name": "https://api.sketchup.com/entitlements/v2/activations?featureFilter=FEA-SKP-SUWEB",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 574.9000000059605,
+        "startTime": 2290.7999999970198
+      },
+      {
+        "name": "https://profile.sketchup.com/v1.0/user/preferences",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 1016,
+        "startTime": 2291.10000000149
+      },
+      {
+        "name": "https://sentry.io/api/1187539/envelope/?sentry_version=7&sentry_key=fc7fb57f0fdf4f63b77440398c800cb0&sentry_client=sentry.javascript.browser%2F10.27.0",
+        "initiatorType": "fetch",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 248.89999999850988,
+        "startTime": 3390.39999999851
+      },
+      {
+        "name": "https://cdn.amplitude.com/libs/analytics-browser-2.47.0-min.js.gz",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 14.5,
+        "startTime": 3391.10000000149
+      },
+      {
+        "name": "https://cdn.amplitude.com/libs/plugin-session-replay-browser-1.35.3-min.js.gz",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 15.900000005960464,
+        "startTime": 3391.2999999970198
+      },
+      {
+        "name": "https://cdn.amplitude.com/script/d347b84e9c28123dd91e04c5ca5201ed.engagement.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 95.30000000447035,
+        "startTime": 3391.2999999970198
+      },
+      {
+        "name": "https://unpkg.com/@amplitude/experiment-js-client@1.15.5/dist/experiment.umd.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 13.600000001490116,
+        "startTime": 3391.39999999851
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/webapp_gl2_4gb.js.jgz",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 578235,
+        "decodedBodySize": 578235,
+        "duration": 5.600000001490116,
+        "startTime": 3403
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/webapp_gl2_4gb.data",
+        "initiatorType": "fetch",
+        "transferSize": 0,
+        "encodedBodySize": 588533,
+        "decodedBodySize": 588533,
+        "duration": 5.5,
+        "startTime": 3417.2999999970198
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/webapp_gl2_4gb.wasm",
+        "initiatorType": "fetch",
+        "transferSize": 0,
+        "encodedBodySize": 14144603,
+        "decodedBodySize": 14144603,
+        "duration": 82.5,
+        "startTime": 3421.2000000029802
+      },
+      {
+        "name": "https://sr-client-cfg.amplitude.com/config/d347b84e9c28123dd91e04c5ca5201ed?config_group=browser",
+        "initiatorType": "fetch",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 86.60000000149012,
+        "startTime": 3488.7999999970198
+      },
+      {
+        "name": "https://sr-client-cfg.amplitude.com/config/d347b84e9c28123dd91e04c5ca5201ed?config_group=browser",
+        "initiatorType": "fetch",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 74.29999999701977,
+        "startTime": 3501.5
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/resources/fonts/OpenSans-Regular.woff",
+        "initiatorType": "fetch",
+        "transferSize": 0,
+        "encodedBodySize": 99416,
+        "decodedBodySize": 99416,
+        "duration": 3.5,
+        "startTime": 3521
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/resources/my_sketchup_watermark.png",
+        "initiatorType": "fetch",
+        "transferSize": 0,
+        "encodedBodySize": 63301,
+        "decodedBodySize": 63301,
+        "duration": 3,
+        "startTime": 3522
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/resources/en/commands.json",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 64573,
+        "decodedBodySize": 64573,
+        "duration": 2.7999999970197678,
+        "startTime": 3586.10000000149
+      },
+      {
+        "name": "https://api.lab.amplitude.com/sdk/v2/vardata?v=0",
+        "initiatorType": "fetch",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 1336.9000000059605,
+        "startTime": 3697.7999999970198
+      },
+      {
+        "name": "https://sr-client-cfg.amplitude.com/config/d347b84e9c28123dd91e04c5ca5201ed?config_group=browser",
+        "initiatorType": "fetch",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 7.200000002980232,
+        "startTime": 3699.5
+      },
+      {
+        "name": "https://sr-client-cfg.amplitude.com/config/d347b84e9c28123dd91e04c5ca5201ed?config_group=browser",
+        "initiatorType": "fetch",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 6.700000002980232,
+        "startTime": 3700.2999999970198
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/resources/fonts/OpenSans-Regular.woff",
+        "initiatorType": "css",
+        "transferSize": 0,
+        "encodedBodySize": 99416,
+        "decodedBodySize": 99416,
+        "duration": 1.5,
+        "startTime": 3786.7999999970198
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/resources/fonts/OpenSans-Bold.woff",
+        "initiatorType": "css",
+        "transferSize": 0,
+        "encodedBodySize": 102060,
+        "decodedBodySize": 102060,
+        "duration": 4.399999998509884,
+        "startTime": 3788.89999999851
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/images/web/889ce220426261ae02ad_loading.gif",
+        "initiatorType": "img",
+        "transferSize": 0,
+        "encodedBodySize": 2767,
+        "decodedBodySize": 2767,
+        "duration": 2.4000000059604645,
+        "startTime": 3816.7999999970198
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/resources/MaterialTemplate.skp",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 1728481,
+        "decodedBodySize": 1728481,
+        "duration": 13,
+        "startTime": 3817.89999999851
+      },
+      {
+        "name": "https://app.connect.trimble.com/tc/api/2.0/regions",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 2020.2999999970198,
+        "startTime": 3818.2000000029802
+      },
+      {
+        "name": "https://cloud.api.trimble.com/access-management/1.0/profiles/users/me",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 382.6000000014901,
+        "startTime": 3818.89999999851
+      },
+      {
+        "name": "https://rtc-service.sketchup.com/contact-management/contacts/me",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 1556.6999999955297,
+        "startTime": 3819.2000000029802
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/resources/templates/default/templates.zip",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 810220,
+        "decodedBodySize": 810220,
+        "duration": 7.899999998509884,
+        "startTime": 3835.5
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/resources/fonts/OpenSans-SemiBold.woff",
+        "initiatorType": "css",
+        "transferSize": 0,
+        "encodedBodySize": 78004,
+        "decodedBodySize": 78004,
+        "duration": 3,
+        "startTime": 3837.2999999970198
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/images/web/home_tab_image.png",
+        "initiatorType": "img",
+        "transferSize": 0,
+        "encodedBodySize": 4676,
+        "decodedBodySize": 4676,
+        "duration": 2,
+        "startTime": 3916.39999999851
+      },
+      {
+        "name": "https://cdn.amplitude.com/engagement-browser/prod/split/index.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 58.600000001490116,
+        "startTime": 3990.10000000149
+      },
+      {
+        "name": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-3HHX625A.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 31.599999994039536,
+        "startTime": 4054.2000000029802
+      },
+      {
+        "name": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-ZUPYKBCY.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 32.20000000298023,
+        "startTime": 4054.2999999970198
+      },
+      {
+        "name": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-7I6R6BWX.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 32.30000000447035,
+        "startTime": 4054.39999999851
+      },
+      {
+        "name": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-OYOUWI3R.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 40,
+        "startTime": 4054.39999999851
+      },
+      {
+        "name": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-P5ZYY7FY.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 40.79999999701977,
+        "startTime": 4054.5
+      },
+      {
+        "name": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-DR3J4UP6.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 38.5,
+        "startTime": 4054.5
+      },
+      {
+        "name": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-XI42GXDE.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 38.19999999552965,
+        "startTime": 4054.60000000149
+      },
+      {
+        "name": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-37IACQ2J.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 38.79999999701977,
+        "startTime": 4054.60000000149
+      },
+      {
+        "name": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-KWQQC7ML.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 38.79999999701977,
+        "startTime": 4054.7000000029802
+      },
+      {
+        "name": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-Y3KEDU4F.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 41.79999999701977,
+        "startTime": 4054.7000000029802
+      },
+      {
+        "name": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-3BZB6CBG.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 50.5,
+        "startTime": 4054.7999999970198
+      },
+      {
+        "name": "https://gs.amplitude.com/sdk/v1/config",
+        "initiatorType": "fetch",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 425.40000000596046,
+        "startTime": 4163.79999999702
+      },
+      {
+        "name": "https://gs.amplitude.com/sdk/v1/resource_center",
+        "initiatorType": "fetch",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 422.6000000014901,
+        "startTime": 4164.10000000149
+      },
+      {
+        "name": "https://api2.amplitude.com/2/httpapi",
+        "initiatorType": "fetch",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 903.3000000044703,
+        "startTime": 4701.39999999851
+      },
+      {
+        "name": "https://gs.amplitude.com/sdk/v1/decide",
+        "initiatorType": "fetch",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 421.29999999701977,
+        "startTime": 5039.20000000298
+      },
+      {
+        "name": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-ResourceCenterRoot-QLTGO3D2.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 59.399999998509884,
+        "startTime": 5043.20000000298
+      },
+      {
+        "name": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-SWVLSK3N.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 21.200000002980232,
+        "startTime": 5103.5
+      },
+      {
+        "name": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-BQPJ47ZS.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 22.700000002980232,
+        "startTime": 5103.5
+      },
+      {
+        "name": "https://cdn.amplitude.com/engagement-browser/prod/split/c64610e22ea030f93c544faede4802af192ffba1-chunk-IOSYUZDM.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 22.69999999552965,
+        "startTime": 5103.60000000149
+      },
+      {
+        "name": "https://app.connect.trimble.com/tc/api/2.0/regions",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 728.2000000029802,
+        "startTime": 5379
+      },
+      {
+        "name": "https://gs.amplitude.com/sdk/v1/state",
+        "initiatorType": "fetch",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 390.59999999403954,
+        "startTime": 5463.70000000298
+      },
+      {
+        "name": "https://app.connect.trimble.com/tc/api/2.0/shares",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 599.6999999955297,
+        "startTime": 5840.20000000298
+      },
+      {
+        "name": "https://app21.connect.trimble.com/tc/api/2.0/shares",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 843.7000000029802,
+        "startTime": 5840.29999999702
+      },
+      {
+        "name": "https://app31.connect.trimble.com/tc/api/2.0/shares",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 585.6000000014901,
+        "startTime": 5840.60000000149
+      },
+      {
+        "name": "https://app32.connect.trimble.com/tc/api/2.0/shares",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 1466.0999999940395,
+        "startTime": 5840.70000000298
+      },
+      {
+        "name": "https://app22.connect.trimble.com/tc/api/2.0/shares",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 835.5,
+        "startTime": 5840.89999999851
+      },
+      {
+        "name": "https://api2.amplitude.com/2/httpapi",
+        "initiatorType": "fetch",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 223.79999999701977,
+        "startTime": 6055.70000000298
+      },
+      {
+        "name": "https://munchkin.marketo.net/munchkin.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 2.100000001490116,
+        "startTime": 6108.89999999851
+      },
+      {
+        "name": "https://api.sketchup.com/notifications/v1/sketchup",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 809.2000000029802,
+        "startTime": 6122.29999999702
+      },
+      {
+        "name": "https://api.sketchup.com/notifications/v1/sketchup",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 583.2999999970198,
+        "startTime": 6122.5
+      },
+      {
+        "name": "https://munchkin.marketo.net/165/munchkin.js",
+        "initiatorType": "script",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 2.2000000029802322,
+        "startTime": 6124
+      },
+      {
+        "name": "https://645-coj-341.mktoresp.com/webevents/visitWebPage?_mchNc=1793484963126&_mchCn=&_mchId=645-COJ-341&_mchTk=_mch-sketchup.com-1e92312f1ad57800ce25639765dc38ea&_mchHo=app.sketchup.com&_mchPo=&_mchRu=%2Fapp&_mchPc=https%3A&_mchVr=165&_mchEcid=&_mchHa=&_mchRe=&_mchQp=",
+        "initiatorType": "beacon",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 810.2999999970198,
+        "startTime": 6129.60000000149
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/resources/fonts.zip",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 4884849,
+        "decodedBodySize": 4884849,
+        "duration": 30.399999998509884,
+        "startTime": 8400.5
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/resources/skore_images.zip",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 131441,
+        "decodedBodySize": 131441,
+        "duration": 2.899999998509884,
+        "startTime": 8459.89999999851
+      },
+      {
+        "name": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/images/web/select_default_c.svg",
+        "initiatorType": "css",
+        "transferSize": 0,
+        "encodedBodySize": 1416,
+        "decodedBodySize": 1416,
+        "duration": 1.7999999970197678,
+        "startTime": 8797.70000000298
+      },
+      {
+        "name": "https://app.sketchup.com/en/helpcontent/tool/21022/index.html",
+        "initiatorType": "fetch",
+        "transferSize": 300,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 57.79999999701977,
+        "startTime": 8833
+      },
+      {
+        "name": "https://api.sketchup.com/notifications/v1/sketchup",
+        "initiatorType": "xmlhttprequest",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 246.39999999850988,
+        "startTime": 8871.20000000298
+      },
+      {
+        "name": "https://api2.amplitude.com/2/httpapi",
+        "initiatorType": "fetch",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 501.69999999552965,
+        "startTime": 9405.10000000149
+      },
+      {
+        "name": "https://sentry.io/api/1187539/envelope/?sentry_version=7&sentry_key=fc7fb57f0fdf4f63b77440398c800cb0&sentry_client=sentry.javascript.browser%2F10.27.0",
+        "initiatorType": "fetch",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 285,
+        "startTime": 309413.700000003
+      },
+      {
+        "name": "https://sentry.io/api/1187539/envelope/?sentry_version=7&sentry_key=fc7fb57f0fdf4f63b77440398c800cb0&sentry_client=sentry.javascript.browser%2F10.27.0",
+        "initiatorType": "fetch",
+        "transferSize": 0,
+        "encodedBodySize": 0,
+        "decodedBodySize": 0,
+        "duration": 322.1000000014901,
+        "startTime": 309414.8999999985
+      }
+    ],
+    "scripts": [
+      {
+        "src": "https://munchkin.marketo.net/165/munchkin.js",
+        "type": "text/javascript",
+        "async": true,
+        "defer": false,
+        "id": ""
+      },
+      {
+        "src": "",
+        "type": "",
+        "async": false,
+        "defer": false,
+        "id": ""
+      },
+      {
+        "src": "",
+        "type": "",
+        "async": false,
+        "defer": false,
+        "id": ""
+      },
+      {
+        "src": "https://cdn.amplitude.com/libs/analytics-browser-2.47.0-min.js.gz",
+        "type": "",
+        "async": true,
+        "defer": false,
+        "id": ""
+      },
+      {
+        "src": "https://cdn.amplitude.com/libs/plugin-session-replay-browser-1.35.3-min.js.gz",
+        "type": "",
+        "async": true,
+        "defer": false,
+        "id": ""
+      },
+      {
+        "src": "https://cdn.amplitude.com/script/d347b84e9c28123dd91e04c5ca5201ed.engagement.js",
+        "type": "",
+        "async": true,
+        "defer": false,
+        "id": ""
+      },
+      {
+        "src": "https://unpkg.com/@amplitude/experiment-js-client@1.15.5/dist/experiment.umd.js",
+        "type": "",
+        "async": true,
+        "defer": false,
+        "id": ""
+      },
+      {
+        "src": "https://cdn.amplitude.com/engagement-browser/prod/split/index.js",
+        "type": "module",
+        "async": true,
+        "defer": false,
+        "id": "engagement-sdk-bundle"
+      },
+      {
+        "src": "https://munchkin.marketo.net/munchkin.js",
+        "type": "text/javascript",
+        "async": true,
+        "defer": false,
+        "id": ""
+      },
+      {
+        "src": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/script-loader.js",
+        "type": "text/javascript",
+        "async": false,
+        "defer": true,
+        "id": ""
+      },
+      {
+        "src": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/lib/3dconnexion.min.js",
+        "type": "",
+        "async": true,
+        "defer": false,
+        "id": ""
+      },
+      {
+        "src": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/runtime.js",
+        "type": "",
+        "async": true,
+        "defer": false,
+        "id": ""
+      },
+      {
+        "src": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/vendor.js",
+        "type": "",
+        "async": true,
+        "defer": false,
+        "id": ""
+      },
+      {
+        "src": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/common.js",
+        "type": "",
+        "async": true,
+        "defer": false,
+        "id": ""
+      },
+      {
+        "src": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/init.js",
+        "type": "",
+        "async": true,
+        "defer": false,
+        "id": ""
+      },
+      {
+        "src": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/webapp_gl2_4gb.js.jgz",
+        "type": "",
+        "async": true,
+        "defer": false,
+        "id": ""
+      }
+    ],
+    "links": [
+      {
+        "href": "https://app.sketchup.com/manifest",
+        "rel": "manifest",
+        "type": "",
+        "as": ""
+      },
+      {
+        "href": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/css/sketchup.css",
+        "rel": "stylesheet",
+        "type": "text/css",
+        "as": ""
+      },
+      {
+        "href": "https://app.sketchup.com/favicon.ico",
+        "rel": "shortcut icon",
+        "type": "image/x-icon",
+        "as": ""
+      },
+      {
+        "href": "https://app.sketchup.com/app_static/2026-10-22--17-34-50--9ab196c/images/web/sketchup-logo-precomposed.png",
+        "rel": "apple-touch-icon-precomposed",
+        "type": "",
+        "as": ""
+      },
+      {
+        "href": "https://fonts.googleapis.com/css?family=Muli:400,600|Roboto&display=swap&subset=latin-ext",
+        "rel": "stylesheet",
+        "type": "",
+        "as": ""
+      }
+    ],
+    "origin": "https://app.sketchup.com",
+    "wasmInfo": {
+      "hasWebAssembly": true,
+      "wasmBinaryFile": "/app_static/2026-10-22--17-34-50--9ab196c/webapp_gl2_4gb.wasm"
+    }
+  }
+}

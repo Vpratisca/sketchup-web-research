@@ -1,0 +1,185 @@
+{
+  "activeToolId": 21022,
+  "commandStatus": {
+    "SelectionCommandId": {
+      "id": 21022,
+      "isEnabled": true,
+      "isChecked": true
+    },
+    "PencilCommandId": {
+      "id": 21020,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "FreehandCommandId": {
+      "id": 21031,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "EraseCommandId": {
+      "id": 21019,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "OffsetCommandId": {
+      "id": 21100,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "MoveCommandId": {
+      "id": 21048,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "RotateCommandId": {
+      "id": 21129,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "ScaleCommandId": {
+      "id": 21236,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "PaintBucketCommandId": {
+      "id": 21074,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "TapeMeasureCommandId": {
+      "id": 21024,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "OrbitCommandId": {
+      "id": 10508,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "PanCommandId": {
+      "id": 10523,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "ZoomCommandId": {
+      "id": 10509,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "ZoomExtentsId": {
+      "id": 10527,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "FollowMeCommandId": {
+      "id": 21525,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "ProtractorCommandId": {
+      "id": 21057,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "DimensionCommandId": {
+      "id": 21410,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "SectionCommandId": {
+      "id": 21337,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "AxesCommandId": {
+      "id": 21126,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "TagCommandId": {
+      "id": 21028,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "OuterShellCommandId": {
+      "id": 24198,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "IntersectCommandId": {
+      "id": 24200,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "UnionCommandId": {
+      "id": 24201,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "DifferenceCommandId": {
+      "id": 24202,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "TrimCommandId": {
+      "id": 24203,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "SplitCommandId": {
+      "id": 24204,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "DrawTextCommandId": {
+      "id": 21405,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "SolidInspectorCommandId": {
+      "id": 21128,
+      "isEnabled": false,
+      "isChecked": false
+    },
+    "LassoCommandId": {
+      "id": 21027,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "3DTextCommandId": {
+      "id": 21940,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "FlipCommandId": {
+      "id": 21029,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "SnapsCommandId": {
+      "id": 21121,
+      "isEnabled": false,
+      "isChecked": false
+    },
+    "SoftenEdgesCommandId": {
+      "id": 21383,
+      "isEnabled": true,
+      "isChecked": false
+    },
+    "WeldEdgesCommandId": {
+      "id": 141,
+      "isEnabled": false,
+      "isChecked": false
+    },
+    "ReverseFacesCommandId": {
+      "id": 21042,
+      "isEnabled": false,
+      "isChecked": false
+    },
+    "OrientFacesCommandId": {
+      "id": 21168,
+      "isEnabled": false,
+      "isChecked": false
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "fieldOfView": 35,
+  "viewMatrix": {
+    "m00": 0.9447283400299072,
+    "m01": -0.08395706323559556,
+    "m02": -0.31692203312043543,
+    "m03": 14.200880056414135,
+    "m10": 0.327854180306331,
+    "m11": 0.24192650802939447,
+    "m12": 0.9132268070793625,
+    "m13": -129.11232270685906,
+    "m20": 1.3877787807814457e-17,
+    "m21": 0.9666554589126147,
+    "m22": -0.2560805024878748,
+    "m23": 71.59674490172225,
+    "m30": 0,
+    "m31": 0,
+    "m32": 0,
+    "m33": 1
+  },
+  "viewportDimensions": {
+    "width": 921,
+    "height": 920
+  },
+  "cameraHeight": 133,
+  "modelLengthUnits": 0,
+  "modelInfo": {
+    "stats": {
+      "is_root": true,
+      "num_edges": 1692,
+      "num_faces": 72,
+      "num_component_instances": 1,
+      "num_guides": 0,
+      "num_guide_points": 0,
+      "num_groups": 0,
+      "num_images": 0,
+      "num_3d_polylines": 0,
+      "num_section_planes": 0,
+      "num_dimensions": 0,
+      "num_text": 0,
+      "num_classification_types": 0,
+      "num_classified_entities": 0,
+      "num_live_component_instances": 0,
+      "num_component_definitions": 1,
+      "num_layers": 1,
+      "num_materials": 13,
+      "num_styles": 1,
+      "num_live_component_defs": 0,
+      "num_layer_groups": 0
+    },
+    "num_scenes": 0,
+    "num_scenes_pbr": 0,
+    "num_scenes_skybox": 0,
+    "num_environments": 0,
+    "num_scenes_amb_occ": 0,
+    "num_materials": 13,
+    "num_materials_pbr": 0,
+    "units": "Inches",
+    "file_version": "s27"
+  },
+  "modelExtents": {
+    "left": -41.63590508050875,
+    "right": -0.7372600748239426,
+    "bottom": -38.907565537808466,
+    "top": 1.991079467876343,
+    "near": 0.050162450460733254,
+    "far": 75.32190653648541
+  }
+}

@@ -1,0 +1,642 @@
+[
+  {
+    "tool": "Select",
+    "commandKey": "SelectionCommandId",
+    "defaultShortcut": "Space",
+    "data": {
+      "cmdId": 21022,
+      "prevToolId": 21022,
+      "activeToolId": 21022,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/select_default_c.svg\") 9 6, auto",
+      "measurements": {
+        "label": "Measurements",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Lasso Select",
+    "commandKey": "LassoCommandId",
+    "defaultShortcut": "None",
+    "data": {
+      "cmdId": 21027,
+      "prevToolId": 21022,
+      "activeToolId": 21027,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/lasso_c.svg\") 4 2, auto",
+      "measurements": {
+        "label": "Measurements",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Eraser",
+    "commandKey": "EraseCommandId",
+    "defaultShortcut": "E",
+    "data": {
+      "cmdId": 21019,
+      "prevToolId": 21027,
+      "activeToolId": 21019,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/eraser_c.svg\") 10 28, auto",
+      "measurements": {
+        "label": "Measurements",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Line (Pencil)",
+    "commandKey": "PencilCommandId",
+    "defaultShortcut": "L",
+    "data": {
+      "cmdId": 21020,
+      "prevToolId": 21019,
+      "activeToolId": 21020,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/pencil_default_c.svg\") 2 29, auto",
+      "measurements": {
+        "label": "Length",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Freehand",
+    "commandKey": "FreehandCommandId",
+    "defaultShortcut": "None",
+    "data": {
+      "cmdId": 21031,
+      "prevToolId": 21020,
+      "activeToolId": 21031,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/freehand_default_c.svg\") 2 29, auto",
+      "measurements": {
+        "label": "Measurements",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Arc (2-Point)",
+    "commandKey": "ArcCommandId",
+    "defaultShortcut": "A",
+    "data": {
+      "cmdId": 21069,
+      "prevToolId": 21031,
+      "activeToolId": 21069,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/arc_click1_c.svg\") 2 29, auto",
+      "measurements": {
+        "label": "Sides",
+        "placeholder": null,
+        "value": "12",
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Rectangle",
+    "commandKey": "RectangleCommandId",
+    "defaultShortcut": "R",
+    "data": {
+      "cmdId": 21094,
+      "prevToolId": 21069,
+      "activeToolId": 21094,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/rectangle_default_c.svg\") 2 29, auto",
+      "measurements": {
+        "label": "Dimensions",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Rotated Rectangle",
+    "commandKey": "RotatedRectangleCommandId",
+    "defaultShortcut": "None",
+    "data": {
+      "cmdId": 24223,
+      "prevToolId": 21094,
+      "activeToolId": 24223,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/rectangle_rotated_1_c.svg\") 2 29, auto",
+      "measurements": {
+        "label": "Measurements",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Circle",
+    "commandKey": "CircleCommandId",
+    "defaultShortcut": "C",
+    "data": {
+      "cmdId": 21096,
+      "prevToolId": 24223,
+      "activeToolId": 21096,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/circle_default_c.svg\") 2 29, auto",
+      "measurements": {
+        "label": "Sides",
+        "placeholder": null,
+        "value": "24",
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Polygon",
+    "commandKey": "PolygonCommandId",
+    "defaultShortcut": "None",
+    "data": {
+      "cmdId": 21095,
+      "prevToolId": 21096,
+      "activeToolId": 21095,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/polygon_default_c.svg\") 2 29, auto",
+      "measurements": {
+        "label": "Sides",
+        "placeholder": null,
+        "value": "6",
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Push/Pull",
+    "commandKey": "PushPullCommandId",
+    "defaultShortcut": "P",
+    "data": {
+      "cmdId": 21041,
+      "prevToolId": 21095,
+      "activeToolId": 21041,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/pushpull_c.svg\") 15 1, auto",
+      "measurements": {
+        "label": "Distance",
+        "placeholder": null,
+        "value": "0\"",
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Follow Me",
+    "commandKey": "FollowMeCommandId",
+    "defaultShortcut": "None",
+    "data": {
+      "cmdId": 21525,
+      "prevToolId": 21041,
+      "activeToolId": 21525,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/followme_c.svg\") 3 3, auto",
+      "measurements": {
+        "label": "Measurements",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Offset",
+    "commandKey": "OffsetCommandId",
+    "defaultShortcut": "F",
+    "data": {
+      "cmdId": 21100,
+      "prevToolId": 21525,
+      "activeToolId": 21100,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/offset_c.svg\") 3 3, auto",
+      "measurements": {
+        "label": "Distance",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Move",
+    "commandKey": "MoveCommandId",
+    "defaultShortcut": "M",
+    "data": {
+      "cmdId": 21048,
+      "prevToolId": 21100,
+      "activeToolId": 21048,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/move_c.svg\") 15 15, auto",
+      "measurements": {
+        "label": "Distance",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Rotate",
+    "commandKey": "RotateCommandId",
+    "defaultShortcut": "Q",
+    "data": {
+      "cmdId": 21129,
+      "prevToolId": 21048,
+      "activeToolId": 21129,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/rotate_c.svg\") 15 15, auto",
+      "measurements": {
+        "label": "Angle",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Scale",
+    "commandKey": "ScaleCommandId",
+    "defaultShortcut": "S",
+    "data": {
+      "cmdId": 21236,
+      "prevToolId": 21129,
+      "activeToolId": 21236,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/scale_c.svg\") 3 3, auto",
+      "measurements": {
+        "label": "Measurements",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Tape Measure",
+    "commandKey": "TapeMeasureCommandId",
+    "defaultShortcut": "T",
+    "data": {
+      "cmdId": 21024,
+      "prevToolId": 21236,
+      "activeToolId": 21024,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/tape_measure_guides_c.svg\") 5 28, auto",
+      "measurements": {
+        "label": "Length",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Protractor",
+    "commandKey": "ProtractorCommandId",
+    "defaultShortcut": "None",
+    "data": {
+      "cmdId": 21057,
+      "prevToolId": 21024,
+      "activeToolId": 21057,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/select_default_c.svg\") 9 6, auto",
+      "measurements": {
+        "label": "Angle",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Paint Bucket",
+    "commandKey": "PaintBucketCommandId",
+    "defaultShortcut": "B",
+    "data": {
+      "cmdId": 21074,
+      "prevToolId": 21057,
+      "activeToolId": 21074,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/paint_bucket_c.svg\") 5 29, auto",
+      "measurements": {
+        "label": "Measurements",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Sample Material (Eye Dropper)",
+    "commandKey": "PaintMatchCommandId",
+    "defaultShortcut": "Alt + B",
+    "data": {
+      "cmdId": 21255,
+      "prevToolId": 21074,
+      "activeToolId": 21074,
+      "isNowActive": false,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/sample_c.svg\") 6 25, auto",
+      "measurements": {
+        "label": "Measurements",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Dimension",
+    "commandKey": "DimensionCommandId",
+    "defaultShortcut": "D",
+    "data": {
+      "cmdId": 21410,
+      "prevToolId": 21074,
+      "activeToolId": 21410,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/dimension3point1.svg\") 2 29, auto",
+      "measurements": {
+        "label": "Measurements",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Section Plane",
+    "commandKey": "SectionCommandId",
+    "defaultShortcut": "None",
+    "data": {
+      "cmdId": 21337,
+      "prevToolId": 21410,
+      "activeToolId": 21337,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/select_default_c.svg\") 9 6, auto",
+      "measurements": {
+        "label": "Measurements",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Axes",
+    "commandKey": "AxesCommandId",
+    "defaultShortcut": "None",
+    "data": {
+      "cmdId": 21126,
+      "prevToolId": 21337,
+      "activeToolId": 21126,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/select_default_c.svg\") 9 6, auto",
+      "measurements": {
+        "label": "Measurements",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Orbit",
+    "commandKey": "OrbitCommandId",
+    "defaultShortcut": "O / Middle Mouse",
+    "data": {
+      "cmdId": 10508,
+      "prevToolId": 21126,
+      "activeToolId": 10508,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/orbit_c.svg\") 15 15, auto",
+      "measurements": {
+        "label": "Measurements",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Pan",
+    "commandKey": "PanCommandId",
+    "defaultShortcut": "H / Shift + Middle Mouse",
+    "data": {
+      "cmdId": 10523,
+      "prevToolId": 10508,
+      "activeToolId": 10523,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/pan_c.svg\") 14 7, auto",
+      "measurements": {
+        "label": "Measurements",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Zoom",
+    "commandKey": "ZoomCommandId",
+    "defaultShortcut": "Z / Scroll",
+    "data": {
+      "cmdId": 10509,
+      "prevToolId": 10523,
+      "activeToolId": 10509,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/zoom_c.svg\") 21 10, auto",
+      "measurements": {
+        "label": "Field of View",
+        "placeholder": null,
+        "value": "35.00 deg.",
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Zoom Window",
+    "commandKey": "ZoomWindowCommandId",
+    "defaultShortcut": "Ctrl + Shift + W",
+    "data": {
+      "cmdId": 10526,
+      "prevToolId": 10509,
+      "activeToolId": 10526,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/zoom_window_c.svg\") 18 12, auto",
+      "measurements": {
+        "label": "Measurements",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Zoom Extents",
+    "commandKey": "ZoomExtentsId",
+    "defaultShortcut": "Shift + Z",
+    "data": {
+      "cmdId": 10527,
+      "prevToolId": 10526,
+      "activeToolId": 10526,
+      "isNowActive": false,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/zoom_window_c.svg\") 18 12, auto",
+      "measurements": {
+        "label": "Measurements",
+        "placeholder": null,
+        "value": null,
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Position Camera",
+    "commandKey": "PositionCameraCommandId",
+    "defaultShortcut": "None",
+    "data": {
+      "cmdId": 21169,
+      "prevToolId": 10526,
+      "activeToolId": 21169,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/dimension3point1.svg\") 2 29, auto",
+      "measurements": {
+        "label": "Height Offset",
+        "placeholder": null,
+        "value": "5' 6\"",
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Walk",
+    "commandKey": "WalkCommandId",
+    "defaultShortcut": "None",
+    "data": {
+      "cmdId": 10520,
+      "prevToolId": 21169,
+      "activeToolId": 10520,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/walk_c.svg\") 15 15, auto",
+      "measurements": {
+        "label": "Eye Height",
+        "placeholder": null,
+        "value": "~ 5' 11 5/8\"",
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Look Around",
+    "commandKey": "LookAroundCommandId",
+    "defaultShortcut": "None",
+    "data": {
+      "cmdId": 10525,
+      "prevToolId": 10520,
+      "activeToolId": 10525,
+      "isNowActive": true,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/look_around_c.svg\") 18 17, auto",
+      "measurements": {
+        "label": "Eye Height",
+        "placeholder": null,
+        "value": "~ 5' 11 5/8\"",
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  },
+  {
+    "tool": "Draw 3D Text",
+    "commandKey": "3DTextCommandId",
+    "defaultShortcut": "None",
+    "data": {
+      "cmdId": 21940,
+      "prevToolId": 10525,
+      "activeToolId": 10525,
+      "isNowActive": false,
+      "canvasCursor": "url(\"/app_static/2026-10-22--17-34-50--9ab196c/images/web/look_around_c.svg\") 18 17, auto",
+      "measurements": {
+        "label": "Eye Height",
+        "placeholder": null,
+        "value": "~ 5' 11 5/8\"",
+        "readOnly": true
+      },
+      "statusBarText": "Share\nsa",
+      "modifierBadges": []
+    }
+  }
+]

@@ -1,0 +1,1772 @@
+[
+  {
+    "id": "3D_warehouse",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "add",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "add_tag",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 4
+  },
+  {
+    "id": "ai_coin",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 4
+  },
+  {
+    "id": "ai_launcher",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "ai_coin_white",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 4
+  },
+  {
+    "id": "anonymous_avatar",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "autosave",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "back_arrow",
+    "viewBox": "0 0 20 17",
+    "childrenCount": 3
+  },
+  {
+    "id": "browse_styles",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "camera_perspective",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "camera_parallel_projection",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "camera_two_point",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "cancel",
+    "viewBox": "0 0 13 14",
+    "childrenCount": 2
+  },
+  {
+    "id": "cancel_red",
+    "viewBox": "0 0 13 14",
+    "childrenCount": 2
+  },
+  {
+    "id": "cancel_small",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "capture_camera",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "check_mark",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "checked",
+    "viewBox": "0 0 24 25",
+    "childrenCount": 2
+  },
+  {
+    "id": "chevron_double_down",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 2
+  },
+  {
+    "id": "chevron_double_left",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "chevron_double_right",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "chevron_double_up",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 2
+  },
+  {
+    "id": "chevron_down",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "chevron_left",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "chevron_right",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "left_arrow_circled_dark",
+    "viewBox": "0 0 33 33",
+    "childrenCount": 2
+  },
+  {
+    "id": "left_arrow_circled_light",
+    "viewBox": "0 0 33 33",
+    "childrenCount": 2
+  },
+  {
+    "id": "right_arrow_circled_dark",
+    "viewBox": "0 0 33 33",
+    "childrenCount": 2
+  },
+  {
+    "id": "right_arrow_circled_light",
+    "viewBox": "0 0 33 33",
+    "childrenCount": 2
+  },
+  {
+    "id": "close",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "collapse_all",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "comment_location",
+    "viewBox": "0 0 24 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "comments",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 6
+  },
+  {
+    "id": "component",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 13
+  },
+  {
+    "id": "copy",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 8
+  },
+  {
+    "id": "cursors_on",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 2
+  },
+  {
+    "id": "cursors_off",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 2
+  },
+  {
+    "id": "cut",
+    "viewBox": "0 0 24 25",
+    "childrenCount": 5
+  },
+  {
+    "id": "deeply_nested",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "default_material",
+    "viewBox": "0 0 33 33",
+    "childrenCount": 2
+  },
+  {
+    "id": "delete",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "display",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "download",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "download_light_blue",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "download_cloud",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "edit",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "entity_info",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "exclamation_icon",
+    "viewBox": "0 0 60 60",
+    "childrenCount": 1
+  },
+  {
+    "id": "exclamation_mark",
+    "viewBox": "0 0 16 16",
+    "childrenCount": 3
+  },
+  {
+    "id": "extension",
+    "viewBox": "0 0 24 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "extensions-grabber",
+    "viewBox": "0 0 17 21",
+    "childrenCount": 1
+  },
+  {
+    "id": "extension-manager",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "exit_fullscreen",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 9
+  },
+  {
+    "id": "expand_all",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "export",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "escape",
+    "viewBox": "0 0 45 45",
+    "childrenCount": 2
+  },
+  {
+    "id": "field_of_view",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 6
+  },
+  {
+    "id": "file",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 2
+  },
+  {
+    "id": "folder",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "fullscreen",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 8
+  },
+  {
+    "id": "glue_to_none",
+    "viewBox": "0 0 48 49",
+    "childrenCount": 2
+  },
+  {
+    "id": "google_drive",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "google_drive_active",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "group",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "hamburger",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "question_mark",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 2
+  },
+  {
+    "id": "home",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "home_fill",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "home_outline",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "image_formats",
+    "viewBox": "0 0 185 80",
+    "childrenCount": 2
+  },
+  {
+    "id": "import",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "info_inverted_colors",
+    "viewBox": "0 0 24 25",
+    "childrenCount": 3
+  },
+  {
+    "id": "instructor",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "instructor_fill",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "labs_badge",
+    "viewBox": "0 0 73 30",
+    "childrenCount": 14
+  },
+  {
+    "id": "labs",
+    "viewBox": "0 0 24 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "labs_flask",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 12
+  },
+  {
+    "id": "laser_pointer",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "list_view",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "add_location_light",
+    "viewBox": "0 0 24 25",
+    "childrenCount": 2
+  },
+  {
+    "id": "location",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "locked",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "materials_gallery",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "materials",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "materials_search",
+    "viewBox": "0 0 28 29",
+    "childrenCount": 1
+  },
+  {
+    "id": "magnifying_glass",
+    "viewBox": "0 0 23 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "miles_play",
+    "viewBox": "0 0 264 184",
+    "childrenCount": 6
+  },
+  {
+    "id": "next_scene",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "not_visible",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "model_info",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "my_device",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "new_file",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "onedrive",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "onedrive_active",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "open_external",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "outliner",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "overflow",
+    "viewBox": "0 0 29 29",
+    "childrenCount": 1
+  },
+  {
+    "id": "paste",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 7
+  },
+  {
+    "id": "paste_in_place",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 5
+  },
+  {
+    "id": "pause",
+    "viewBox": "0 0 24 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "play_scenes",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 2
+  },
+  {
+    "id": "present_mode",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "previous_scene",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "print",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "pull_handle",
+    "viewBox": "0 0 4 20",
+    "childrenCount": 3
+  },
+  {
+    "id": "purge",
+    "viewBox": "0 0 20 21",
+    "childrenCount": 1
+  },
+  {
+    "id": "reanchor",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "redo",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "refresh_scenes",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "reset_dark_blue",
+    "viewBox": "0 0 24 22",
+    "childrenCount": 1
+  },
+  {
+    "id": "reset",
+    "viewBox": "0 0 24 23",
+    "childrenCount": 1
+  },
+  {
+    "id": "resize_bar",
+    "viewBox": "0 0 92 6",
+    "childrenCount": 1
+  },
+  {
+    "id": "retry",
+    "viewBox": "0 0 16 16",
+    "childrenCount": 1
+  },
+  {
+    "id": "sad_panda",
+    "viewBox": "0 0 316 300",
+    "childrenCount": 1
+  },
+  {
+    "id": "save",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "scenes",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "select_all",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "select_none",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "server",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 12
+  },
+  {
+    "id": "settings",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "settings_vertical",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "shadows",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 8
+  },
+  {
+    "id": "shadows_cast_off",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 14
+  },
+  {
+    "id": "shadows_receive_off",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 8
+  },
+  {
+    "id": "shadows_receive_on",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 8
+  },
+  {
+    "id": "share",
+    "viewBox": "0 0 24 25",
+    "childrenCount": 4
+  },
+  {
+    "id": "share_no",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 4
+  },
+  {
+    "id": "sharebar_labs",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 23
+  },
+  {
+    "id": "sketchup",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "sketchup_thick_light",
+    "viewBox": "0 0 55 59",
+    "childrenCount": 1
+  },
+  {
+    "id": "sketchup_thick_dark",
+    "viewBox": "0 0 55 59",
+    "childrenCount": 1
+  },
+  {
+    "id": "smile",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 4
+  },
+  {
+    "id": "soften_smooth",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 10
+  },
+  {
+    "id": "solid_inspector",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "sort",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 3
+  },
+  {
+    "id": "sort_alphabetic",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "sort_visible",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 4
+  },
+  {
+    "id": "status_dashboard",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 6
+  },
+  {
+    "id": "styles",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 10
+  },
+  {
+    "id": "tags",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "tile_view",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "trimble_connect",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "trimble_connect_active",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "trimble_connect_cloud_not_available",
+    "viewBox": "0 0 24 16",
+    "childrenCount": 1
+  },
+  {
+    "id": "unchecked",
+    "viewBox": "0 0 24 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "undo",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "unlocked",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "upload",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "upload_failed",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "uploading_spinner",
+    "viewBox": "0 0 44 44",
+    "childrenCount": 4
+  },
+  {
+    "id": "view_bottom",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "view_east",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "view_iso",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 8
+  },
+  {
+    "id": "view_north",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "view_plan",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "view_south",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "view_west",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 4
+  },
+  {
+    "id": "visible",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "warning",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "2_point_arc",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 6
+  },
+  {
+    "id": "3_point_arc",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "3D_text",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 7
+  },
+  {
+    "id": "ai_material",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "ai_render",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "generate_maps",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "arc",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 6
+  },
+  {
+    "id": "axes",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 13
+  },
+  {
+    "id": "circle",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 4
+  },
+  {
+    "id": "commentTool",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "diffusion_eraser",
+    "viewBox": "0 0 24 25",
+    "childrenCount": 5
+  },
+  {
+    "id": "diffusion",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 9
+  },
+  {
+    "id": "assistant",
+    "viewBox": "0 0 210.000000 218.000000",
+    "childrenCount": 1
+  },
+  {
+    "id": "dimension",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 6
+  },
+  {
+    "id": "eraser",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 6
+  },
+  {
+    "id": "follow_me",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "freehand",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "intersect",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "label",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 6
+  },
+  {
+    "id": "lasso",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "look_around",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 7
+  },
+  {
+    "id": "move",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 8
+  },
+  {
+    "id": "offset",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "orbit",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "outer_shell",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "paint_bucket",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 7
+  },
+  {
+    "id": "paint",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "pan",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 6
+  },
+  {
+    "id": "pencil",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "pie",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 8
+  },
+  {
+    "id": "polygon",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 4
+  },
+  {
+    "id": "position_camera",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 7
+  },
+  {
+    "id": "protractor",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "push_pull",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 7
+  },
+  {
+    "id": "recent_tool_slot",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "rectangle",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 4
+  },
+  {
+    "id": "rotate",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 4
+  },
+  {
+    "id": "rotated_rectangle",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "sample",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "scale",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 4
+  },
+  {
+    "id": "search",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "section_plane",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "separator",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "select",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "sketch",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "split",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "subtract",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "tag",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 4
+  },
+  {
+    "id": "tape_measure",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 6
+  },
+  {
+    "id": "text_tool",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "trim",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 4
+  },
+  {
+    "id": "union",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "walk",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "zoom",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "zoom_elements",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "zoom_window",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 4
+  },
+  {
+    "id": "flip",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 3
+  },
+  {
+    "id": "align_to_bottom",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "align_to_center",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "align_to_screen",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "align_to_top",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "broken_image",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "browse_environments",
+    "viewBox": "0 0 23 22",
+    "childrenCount": 5
+  },
+  {
+    "id": "color_by_tags",
+    "viewBox": "0 0 16 18",
+    "childrenCount": 1
+  },
+  {
+    "id": "display_watermarks",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 7
+  },
+  {
+    "id": "edge_settings_back_edges",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "edge_settings_depth_cue",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "edge_settings_endpoints",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "edge_settings_extensions",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "edge_settings_hidden_line",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "edge_settings_jitter",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "edge_settings_profiles",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "end_points_closed",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "end_points_dot",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "end_points_none",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "end_points_open",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "end_points_slash",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "environments",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "face_settings_ambient_occlusion",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "face_settings_monochrome",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "face_settings_photoreal",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "face_settings_shaded",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "face_settings_shaded_textures",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "face_settings_wireframe",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "face_settings_xray",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "filter",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "gallery",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "image",
+    "viewBox": "0 0 24 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "none",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "new_comment",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 4
+  },
+  {
+    "id": "pin",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "hide_rest_of_model_off",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 18
+  },
+  {
+    "id": "hide_similiar_components_off",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 22
+  },
+  {
+    "id": "hotspots_not_visible",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 9
+  },
+  {
+    "id": "hotspots_visible",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "information",
+    "viewBox": "0 0 16 16",
+    "childrenCount": 1
+  },
+  {
+    "id": "link",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 7
+  },
+  {
+    "id": "link_darker",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 7
+  },
+  {
+    "id": "link_broken",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 7
+  },
+  {
+    "id": "revert_changes",
+    "viewBox": "0 0 17 15",
+    "childrenCount": 1
+  },
+  {
+    "id": "revert_changes_disabled",
+    "viewBox": "0 0 17 15",
+    "childrenCount": 1
+  },
+  {
+    "id": "section_fill",
+    "viewBox": "0 0 20 21",
+    "childrenCount": 58
+  },
+  {
+    "id": "stars",
+    "viewBox": "0 0 16 20",
+    "childrenCount": 1
+  },
+  {
+    "id": "submit",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 3
+  },
+  {
+    "id": "sun_icon",
+    "viewBox": "0 0 28 28",
+    "childrenCount": 2
+  },
+  {
+    "id": "text_position_start",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "text_position_center",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "text_position_end",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "thumbs_up",
+    "viewBox": "0 0 24 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "tile_view_one",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "tile_view_two",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 4
+  },
+  {
+    "id": "tile_view_three",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 9
+  },
+  {
+    "id": "tile_view_four",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "unhide_all",
+    "viewBox": "0 0 24 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "unhide_last",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 8
+  },
+  {
+    "id": "unhide_selected",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 8
+  },
+  {
+    "id": "view_axes",
+    "viewBox": "0 0 20 22",
+    "childrenCount": 1
+  },
+  {
+    "id": "view_guides",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "view_hidden_geometry",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "view_hidden_objects",
+    "viewBox": "0 0 25 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "view_section_cuts",
+    "viewBox": "0 0 20 22",
+    "childrenCount": 1
+  },
+  {
+    "id": "view_section_planes",
+    "viewBox": "0 0 18 22",
+    "childrenCount": 1
+  },
+  {
+    "id": "view_true_north",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 18
+  },
+  {
+    "id": "sketchup_logo_watermark",
+    "viewBox": "0 0 134 27",
+    "childrenCount": 3
+  },
+  {
+    "id": "alert",
+    "viewBox": "0 0 46 46",
+    "childrenCount": 1
+  },
+  {
+    "id": "auto_prompt",
+    "viewBox": "0 0 55 54",
+    "childrenCount": 3
+  },
+  {
+    "id": "check_mark_inverted_colors",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "hidden-geometry",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "profile_trimble_dark_blue",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "camera",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 3
+  },
+  {
+    "id": "Thumbs_LM_down",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "Thumbs_LM_down_selected",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 2
+  },
+  {
+    "id": "Thumbs_LM_up",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "Thumbs_LM_up_selected",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 2
+  },
+  {
+    "id": "sd_like_thumbnail",
+    "viewBox": "0 0 25 25",
+    "childrenCount": 3
+  },
+  {
+    "id": "Overflow_DM",
+    "viewBox": "0 0 24 25",
+    "childrenCount": 1
+  },
+  {
+    "id": "stopwatch",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 5
+  },
+  {
+    "id": "x-ray",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 12
+  },
+  {
+    "id": "check",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "ei_edge_smooth_off",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "ei_edge_smooth_on",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 2
+  },
+  {
+    "id": "ei_edge_soften_off",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "ei_edge_soften_on",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "ei_noimage",
+    "viewBox": "0 0 45 45",
+    "childrenCount": 4
+  },
+  {
+    "id": "info",
+    "viewBox": "0 0 64 64",
+    "childrenCount": 1
+  },
+  {
+    "id": "insert_file_formats",
+    "viewBox": "0 0 185 80",
+    "childrenCount": 1
+  },
+  {
+    "id": "google_icon",
+    "viewBox": "0 0 48 48",
+    "childrenCount": 5
+  },
+  {
+    "id": "microsoft_icon",
+    "viewBox": "0 0 12 12",
+    "childrenCount": 1
+  },
+  {
+    "id": "mnu_drive",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "mnu_onedrive",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "mouse",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "mouse_no_wire",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "overflow_menu",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "pnl_scn_view_back",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "pnl_scn_view_front",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "pnl_scn_view_iso_back_left",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "pnl_scn_view_iso_back_right",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "pnl_scn_view_iso_front_left",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "pnl_scn_view_iso_front_right",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "pnl_scn_view_left",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "pnl_scn_view_right",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "pnl_scn_view_top",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "pnl_stl_xray",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "profile",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "sketchup_cube",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "solid_project_binder",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "stb_help",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "stb_language",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "tag_colors",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "tag_colors_color",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "tb_add_folder",
+    "viewBox": "0 0 31 31",
+    "childrenCount": 1
+  },
+  {
+    "id": "tb_changelog",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "tb_download",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "tb_down_arrow",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "tb_hidden_geometry",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "tb_insert",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "tb_team_icon",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "tb_terms_of_service",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "tb_up_arrow",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "tb_zoom_web",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "team",
+    "viewBox": "230 130 1450 640",
+    "childrenCount": 1
+  },
+  {
+    "id": "trackpad",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "u_link",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "u_unlink",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "wi_chevron",
+    "viewBox": "0 0 24 24",
+    "childrenCount": 1
+  },
+  {
+    "id": "wi_close",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "wi_glue_any",
+    "viewBox": "0 0 45 45",
+    "childrenCount": 4
+  },
+  {
+    "id": "wi_glue_horizontal",
+    "viewBox": "0 0 45 45",
+    "childrenCount": 4
+  },
+  {
+    "id": "wi_glue_none",
+    "viewBox": "0 0 45 45",
+    "childrenCount": 4
+  },
+  {
+    "id": "wi_glue_slope",
+    "viewBox": "0 0 45 45",
+    "childrenCount": 4
+  },
+  {
+    "id": "wi_glue_vertical",
+    "viewBox": "0 0 45 45",
+    "childrenCount": 4
+  },
+  {
+    "id": "wi_Layers",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 1
+  },
+  {
+    "id": "wi_Scenes_refresh_web",
+    "viewBox": "0 0 32 32",
+    "childrenCount": 4
+  },
+  {
+    "id": "wi_visible",
+    "viewBox": "0 0 45 45",
+    "childrenCount": 1
+  }
+]
